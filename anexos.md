@@ -1,7 +1,8 @@
 # Registro de Versiones del Informe
-| Versión | Fecha | Autor | Descripción de modificación |
-| :---: | :---: | ---- | ---- |
-| 0.1 | 27/08 | Emilia Durán | Formato de documento |
+| Versión | Fecha   | Autor        | Descripción de modificación           |
+| :---:   | :---:   | ----         | ----                                  |
+| 0.1     | 27/08   | Emilia Durán | Formato de documento                 |
+| 0.2     | 03/09   | Edery Abanto  | Antecedentes y Problemática          |
 
 # Project Report Collaboration Insights
 Link a repositorio de Project Report:
