@@ -59,8 +59,28 @@ La solución propuesta es desarrollar una página web que aborde estas problemá
 
 Esta solución busca empoderar a los usuarios con la información necesaria para tomar decisiones informadas al comprar y ensamblar componentes de computadoras, mejorando así su experiencia y confianza en el proceso.
 ### 1.2.2.Lean UX Process
+
+- **Dominio:** Desarrollo de soluciones en línea para la compra y ensamblaje de componentes de computadoras.
+- **Segmentos de Clientes:** Usuarios interesados en comprar componentes de computadoras, incluyendo gamers, ingenieros, y otros.
+- **Puntos de Dolor:** Falta de información sobre la compatibilidad de componentes, desconocimiento del costo total y consumo de energía, y dificultad para entender el rendimiento en aplicaciones específicas como juegos y software de diseño.
+- **Brecha:** El mercado carece de una plataforma que proporcione información completa y personalizada sobre la compra y ensamblaje de componentes de computadoras.
+- **Visión/Estrategia:** Facilitar a los usuarios la toma de decisiones informadas al comprar y ensamblar componentes de computadoras.
+
 #### 1.2.2.1. Lean UX Problem Statements
+
+1. Los usuarios que desean ensamblar su propia computadora enfrentan dificultades para encontrar componentes compatibles y entender su costo total.
+2. Los usuarios carecen de información sobre el rendimiento de su sistema en aplicaciones específicas como juegos y software de diseño.
+3. Los usuarios necesitan conocer el consumo de energía de su sistema y recibir recomendaciones para una eficiencia óptima.
+
 #### 1.2.2.2. Lean UX Assumptions
+
+- Suponemos que los usuarios estarán dispuestos a utilizar una plataforma en línea para ensamblar virtualmente sus computadoras.
+- Suponemos que la información proporcionada sobre compatibilidad, costo, rendimiento y consumo de energía será valiosa para los usuarios.
+
 #### 1.2.2.3 Lean UX Hypothesis Statements
+
+1. Creemos que al proporcionar una simulación de ensamblaje y estimaciones de rendimiento en nuestra plataforma en línea, los usuarios se sentirán más seguros al comprar componentes y ensamblar sus propias computadoras, lo que resultará en un aumento del 20% en la participación de usuarios activos en el primer trimestre.
+2. Creemos que al ofrecer información sobre el consumo de energía y recomendaciones para la eficiencia, los usuarios reducirán su consumo de energía en un 15% en el primer año.
+
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
