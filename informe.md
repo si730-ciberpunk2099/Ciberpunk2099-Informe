@@ -26,7 +26,7 @@ Breve Descripcion
 
 Breve Descripcion
 
-![Foto Perfil Fabrizio](/Fotos/Fabrizio.png)
+![Foto Perfil Fabrizio](/Fotos/Fabrizio.jpeg)
 
 Breve Descripcion
 
