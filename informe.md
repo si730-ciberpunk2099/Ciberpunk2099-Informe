@@ -4,12 +4,48 @@
 Nuestro Startup *Ciberpunk 2099*, conformada por estudiantes de la facultad de Ingeniería de la UPC, tiene como propósito crear una aplicación web que asesore al usuario en la adquisición de componentes de computador de acuerdo a sus necesidades y compatibilidad con otros componentes. 
 
 ### 1.1.2. Perfiles de integrantes del equipo
-Emilia Durán Santander u201914541
-Mariano Alejandro Vilela Menéndez	u201918216
-Rodrigo Raymundo Guevara	u20181e098
-Fabrizio Torres Solano	u202014944
-Edery Renzo Abanto Vicente	u201822832
-Gianfranco Luna Morales	u201824343
+**Emilia Durán Santander**
+
+Breve Descripcion
+
+![Foto Perfil Emilia](/Fotos/Emilia.png)
+
+**Mariano Alejandro Vilela Menéndez**
+
+Breve Descripcion
+
+![Foto Perfil Mariano](/Fotos/Mariano.png)
+
+**Rodrigo Raymundo Guevara**
+
+Breve Descripcion
+
+![Foto Perfil Rodrigo](/Fotos/Rodrigo.png)
+
+**Fabrizio Torres Solano**
+
+Breve Descripcion
+
+![Foto Perfil Fabrizio](/Fotos/Fabrizio.png)
+
+Breve Descripcion
+
+**Edery Renzo Abanto Vicente**
+
+Soy un estudiante universitario enfocado en el desarrollo de programación, con 
+experiencia en Python, C++, SQL, C#, MATLAB y programación orientada a objetos. 
+También tengo habilidades avanzadas en Excel y un nivel intermedio de inglés. Mi 
+objetivo es crecer en el campo de la inteligencia artificial y el aprendizaje automático, 
+alcanzando mis metas y encontrando satisfacción en mi carrera profesional
+
+![Foto Perfil Edery](/Fotos/Edery.png)
+
+**Gianfranco Luna Morales**
+
+Breve Descripcion
+
+![Foto Perfil Gianfranco](/Fotos/Gianfranco.png)
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática 
