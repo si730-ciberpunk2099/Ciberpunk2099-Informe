@@ -83,4 +83,5 @@ Esta solución busca empoderar a los usuarios con la información necesaria para
 2. Creemos que al ofrecer información sobre el consumo de energía y recomendaciones para la eficiencia, los usuarios reducirán su consumo de energía en un 15% en el primer año.
 
 #### 1.2.2.4. Lean UX Canvas
+![Lean UX canvas](/Fotos/Canvas.jpg)
 ## 1.3. Segmentos objetivo
