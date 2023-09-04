@@ -24,7 +24,12 @@ Breve Descripcion
 
 **Fabrizio Torres Solano**
 
-Breve Descripcion
+Mi nombre es Fabrizio Torres Solano, estudio ingeniería de software 
+en la Universidad Peruana de Ciencias Aplicadas. Me considero una 
+persona responsable, generosa, hábil y competitiva.En el trabajo que 
+me encuentro realizando, ayudaré a dar ideas para poder desarrollar 
+de la manera óptima el trabajo y aportar si es que alguien solicita 
+ayuda.
 
 ![Foto Perfil Fabrizio](/Fotos/Fabrizio.jpeg)
 
