@@ -12,20 +12,13 @@ Breve Descripcion
 
 **Mariano Alejandro Vilela Menéndez**
 
-Mi nombre es Mariano Alejandro Vilela Menéndez, soy estudiante de la carrera de 
-Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero
-una persona comprometida y responsable al momento de realizar trabajos. Soy bueno trabajando
-bajo presión y en quipo. En este trabajó aportaré con los conocimientos que adquirí
-en los anteriores cursos de la carrera, de tal manera el equipo podrá realizar un buen trabajo
-durante el transcurso del curso actual.
+Breve Descripcion
 
 ![Foto Perfil Mariano](/Fotos/Mariano.png)
 
-**Rodrigo Alejandro Raymundo Guevara**
+**Rodrigo Raymundo Guevara**
 
-Mi nombre es Rodrigo Raymundo Guevara, tengo 22 años. Cuento con conocimientos 
-en Java, Spring Boot, Angular, C++ y Python. Fuera de lo académico me gusta 
-jugar videojuegos y ver peliculas. 
+Breve Descripcion
 
 ![Foto Perfil Rodrigo](/Fotos/Rodrigo.png)
 
@@ -38,7 +31,7 @@ me encuentro realizando, ayudaré a dar ideas para poder desarrollar
 de la manera óptima el trabajo y aportar si es que alguien solicita 
 ayuda.
 
-![Foto Perfil Fabrizio](/Fotos/Fabrizio.jpeg)
+![Foto Perfil Fabrizio](/Fotos/Frabrizio.png)
 
 Breve Descripcion
 
