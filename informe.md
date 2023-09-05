@@ -16,9 +16,11 @@ Breve Descripcion
 
 ![Foto Perfil Mariano](/Fotos/Mariano.png)
 
-**Rodrigo Raymundo Guevara**
+**Rodrigo Alejandro Raymundo Guevara**
 
-Breve Descripcion
+Mi nombre es Rodrigo Raymundo Guevara, tengo 22 años. Cuento con conocimientos 
+en Java, Spring Boot, Angular, C++ y Python. Fuera de lo académico me gusta 
+jugar videojuegos y ver peliculas. 
 
 ![Foto Perfil Rodrigo](/Fotos/Rodrigo.png)
 
