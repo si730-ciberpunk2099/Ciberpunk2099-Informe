@@ -12,7 +12,12 @@ Breve Descripcion
 
 **Mariano Alejandro Vilela Menéndez**
 
-Breve Descripcion
+Mi nombre es Mariano Alejandro Vilela Menéndez, soy estudiante de la carrera de 
+Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero
+una persona comprometida y responsable al momento de realizar trabajos. Soy bueno trabajando
+bajo presión y en quipo. En este trabajó aportaré con los conocimientos que adquirí
+en los anteriores cursos de la carrera, de tal manera el equipo podrá realizar un buen trabajo
+durante el transcurso del curso actual.
 
 ![Foto Perfil Mariano](/Fotos/Mariano.png)
 
