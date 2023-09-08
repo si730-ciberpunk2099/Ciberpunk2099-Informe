@@ -204,11 +204,43 @@ Esta solución busca empoderar a los usuarios con la información necesaria para
 #### 4.6.1. Software Architecture Context Diagram
 #### 4.6.2. Software Architecture Container Diagrams
 #### 4.6.3. Software Architecture Components Diagrams
+
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
+![Class Diagram](/Fotos/Diagram.jpg)
+Pays
+![Pay Diagram](/Fotos/Pays.jpg)
+Products
+![Product Diagram](/Fotos/Products.jpg)
 #### 4.7.2. Class Dictionary
+
+
+AccountFactory: Builder para la creación de cuentas de los usuarios
+
+
+ Usuario: En esta clase habrá atributos como el id, nombre del usuario, correo, contraseña y descripción.
+
+ Searching Process: Esta clase contendrá atributos como el usuario, ya sea como la id, nombre del producto, rango de precio, locaciones, añadir productos, ir a otra página, etc.
+
+ Product:Clase para guardar los datos de cada producto que tiene el proveedor en stock
+
+ ProductList:Clase que tiene la colección de productos de un proveedor
+
+ PaymentInterface:Interfaz para los métodos de pago de un pedido
+
+ Card: En esta clase habrá atributos como el tipo de tarjeta, nombre de tarjeta, número de la tarjeta, código de seguridad, fecha de venicimiento,etc.
+
+ Biling: En esta clase habrá atributos como el id del producto, monto a pagar y la opción de ir a pagar.
+
+ PayPal: En esta clase habrá solo atributos como la de descuentos y registrarse con su cuenta de PayPal.
+
+ paymentMethod: En esta clase contrendrá descuentos y la de poder elegir que método de pago gusta el usuario.
+
+ Login: Clase para el inicio de sesión de los usuarios 
+
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
+![Database Diagram](/Fotos/DataBase.jpg)
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
