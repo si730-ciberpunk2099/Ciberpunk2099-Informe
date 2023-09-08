@@ -12,19 +12,19 @@ Visión: Nuestra visión es ser la marca Líder en venta de componentes con una 
 
 Breve Descripcion
 
-![Foto Perfil Emilia](/Fotos/Emilia.png)
+![Foto Perfil Emilia](/Fotos/Integrantes/Emilia.png)
 
 **Mariano Alejandro Vilela Menéndez**
 
 Mi nombre es Mariano Alejandro Vilela Menéndez, soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona comprometida y responsable al momento de realizar trabajos. Soy bueno trabajando bajo presión y en quipo. En este trabajó aportaré con los conocimientos que adquirí en los anteriores cursos de la carrera, de tal manera el equipo podrá realizar un buen trabajo durante el transcurso del curso actual.
 
-![Foto Perfil Mariano](/Fotos/Mariano.png)
+![Foto Perfil Mariano](/Fotos/Integrantes/Mariano.png)
 
 **Rodrigo Alejandro Raymundo Guevara**
 
 Mi nombre es Rodrigo Raymundo Guevara, tengo 22 años. Cuento con conocimientos en Java, Spring Boot, Angular, C++ y Python. Fuera de lo académico me gusta jugar videojuegos y ver peliculas. 
 
-![Foto Perfil Rodrigo](/Fotos/Rodrigo.png)
+![Foto Perfil Rodrigo](/Fotos/Integrantes/Rodrigo.png)
 
 **Fabrizio Torres Solano**
 
@@ -35,7 +35,7 @@ me encuentro realizando, ayudaré a dar ideas para poder desarrollar
 de la manera óptima el trabajo y aportar si es que alguien solicita 
 ayuda.
 
-![Foto Perfil Fabrizio](/Fotos/Frabrizio.png)
+![Foto Perfil Fabrizio](/Fotos/Integrantes/Frabrizio.png)
 
 Breve Descripcion
 
@@ -47,7 +47,7 @@ También tengo habilidades avanzadas en Excel y un nivel intermedio de inglés. 
 objetivo es crecer en el campo de la inteligencia artificial y el aprendizaje automático, 
 alcanzando mis metas y encontrando satisfacción en mi carrera profesional
 
-![Foto Perfil Edery](/Fotos/Edery.png)
+![Foto Perfil Edery](/Fotos/Integrantes/Edery.png)
 
 **Gianfranco Luna Morales**
 
@@ -56,7 +56,7 @@ soy práctico y racional para los percances que puedan surgir. Si bien poseo con
 en la programación en el lenguaje C++, aportaré en lo que pueda para realizar con éxito la idea planteada.
 
 
-![Foto Perfil Gianfranco](/Fotos/Gianfranco.jpg)
+![Foto Perfil Gianfranco](/Fotos/Integrantes/Gianfranco.png)
 
 
 
@@ -177,7 +177,7 @@ asesores dentro de su tienda. Para contrarrestar esto, pensamos hacer
 publicidad por las redes sociales y trabajar con tiendas pequeñas.
 
 ● Falabella es una tienda física que ofrece una amplia variedad de
-productos electrónicos, así como otros productos relacionados con el
+productos electrónicos, y tienen asesores que los ayudan en caso no tengan idea de que comprar, así como otros productos relacionados con el
 hogar y la moda. Se diferencian de las otras dos empresas en que tienen
 asesores dentro de la tienda que pueden brindar información detallada
 sobre los productos y ayudar a los clientes a tomar decisiones de compra.
@@ -213,35 +213,93 @@ establecido las siguientes estrategias:
 4. Garantizar atención personalizada a través de nuestra plataforma virtual.
 5. Crear una página web oficial para nuestra empresa.
 6. Establecer un canal de atención al cliente fácilmente accesible
+
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
+
 Preguntas:
-1. ¿Cuál es tu nivel de experiencia en el ensamblaje de computadoras? (no se nada, se algo , soy experto)
-2. ¿Has tenido dificultades o sientes miedo para encontrar componentes compatibles entre sí al ensamblar una PC? (si , no)
-3. ¿Qué características son las más importantes para ti al comprar componentes? (precio, rendimiento, eficiencia energética, escalabilidad a futuro)
-4. ¿Qué te parece la idea de usar un sistema de simulación de ensamblado para garantizar la compatibilidad de los componentes antes de la compra? (me sirve, no me sirve)
-5. ¿Qué información consideras imprescindible al momento de comprar componentes para PC? (La marca, el precio, la ppopularidad)
-6. ¿Qué tipo de información te gustaría ver en la simulación de ensamblado? (precio total, consumo energético, rendimiento estimado, ffps aproximados de juegos, si soporta programas como Revit o autocad)
+1. ¿Cuál es tu nivel de experiencia en el ensamblaje de computadoras?
+2. ¿Has tenido dificultades o sientes miedo para encontrar componentes compatibles entre sí al ensamblar una PC?
+3. ¿Qué características son las más importantes para ti al comprar componentes?
+4. ¿Qué te parece la idea de usar un sistema de simulación de ensamblado para garantizar la compatibilidad de los componentes antes de la compra?
+5. ¿Qué información consideras imprescindible al momento de comprar componentes para PC?
+6. ¿Qué tipo de información te gustaría ver en la simulación de ensamblado?
 7. ¿Consideras importante tener acceso a reseñas y opiniones de otros usuarios sobre los componentes?
 8. ¿Utilizarías la función de comparación de precios entre diferentes tiendas en línea?
 9. ¿Prefieres comprar todos los componentes en un solo lugar o estás dispuesto a realizar compras en diferentes tiendas en línea?
 10. ¿Estarías dispuesto a pagar una tarifa adicional por servicios de ensamblaje profesional o instalación de componentes?
-#### 2.2.2. Registro de entrevistas
-1. 
-    -**Nombre:**
 
-    -**Link:**
+#### 2.2.2. Registro de entrevistas
+
+**Entrevista 1:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822832_upc_edu_pe/EXEqz27wXRBPnvJluq7pQVEBkKAR7wjBW9NKVYrp4VTOTQ?e=jrl7Bx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
+**Entrevista 2:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822832_upc_edu_pe/EbHMIBDHJqFFkVhCn8xz6iUBJZhu_VEtVO9vF04H2EusUA?e=KbECYh 
+
+**Entrevista 3:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201918216_upc_edu_pe/EeEjQi0sct1Ojm6LU3PaapIB-mc9vUNwtBEYCrgovidpwA?e=hv6xMm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
+**Entrevista 4:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201918216_upc_edu_pe/EayFuPfSLfdIr1b7HZPlJhYBUovuZ_I5sq6q9L7Ra_u61Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=dyZrA5 
 
 #### 2.2.3. Análisis de entrevistas
-1.
+
+##### Entrevista 1:
+
+Nombre: Abraham Mamani Yupanqui
+
+Edad: 30 años
+
+Estudios: Ingenieria Civil
+
+Conocimientos del tema: Poco
+
+##### Entrevista 2:
+
+    Nombre: **Kimberly Moretti De Santi**
+
+    Edad: 23 años
+
+    Estudios: Arquitectura
+
+    Conocimientos del tema: Medio
+
+##### Entrevista 3:
+
+    Nombre: José Franchezco Guadalupe 
+
+    Edad: 25 años
+
+    Estudios: Ingenieria de software
+
+    Conocimientos del tema: Experto
+
+##### Entrevista 4:
+
+    Nombre: Claudio Williams García
+
+    Edad: 20 años
+
+    Estudios: Ingenieria de sistemas
+
+    Conocimientos del tema: Medio
+
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
+
 1. Usuario
-![UserPersona Usuario](/Fotos/User%20Persona%20Usuario.png)
-2. Experto
-![UserPersona Experpto](/Fotos/User%20Persona%20Experto.png)
+
+![UserPersona Novato](/Fotos/Tablas/UserPersonaNovato.png)
+
 #### 2.3.2. User Task Matrix
+
 1. Usuario
+
 ![UserTask Matrix](/Fotos/User%20Task%20Matrix%20Usuario.png)
 Explicacion: Esta tabla describe todo lo que hará el usuario en la app. Tiene algunas tareas
 como reservar asesoría y un catálogo de componentes de pc, comunicarse con
