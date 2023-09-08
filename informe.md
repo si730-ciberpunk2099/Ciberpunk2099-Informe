@@ -367,7 +367,55 @@ pago sobre todas las ventas y por último escribir una reseña sobre el servicio
 #### 4.3.1. Landing Page Wireframe
 #### 4.3.2. Landing Page Mock-up
 ### 4.4. Web Applications UX/UI Design
+
+
 #### 4.4.1. Web Applications Wireframes
+
+En esta parte, presentaremos las representaciones visuales de la plataforma web de nuestra empresa emergente. 
+Esta plataforma será el entorno en el que los usuarios interactuarán y disfrutarán de la experiencia de nuestro producto digital.
+
+Wireframe de Menú de Registro para Usuario Inexperto
+
+En este Wireframe, se presenta el primer menú que observará por pantalla un usuario que
+ingrese a nuestra aplicación Web, en este caso el usuario inexperto. Este wireframe
+corresponde al menú de registro de un nuevo usuario inexperto.
+
+![Wireframe](/Fotos/wf_f1.png)
+
+En esta propuesta se evidencia una buena arquitectura de información, no sobrecargando al
+usuario y brindándole la información necesaria para un inicio de sesión exitoso. También
+podemos ver elementos de diseño que siguen ciertos patrones. Como por ejemplo los input
+que requieren que se ingrese texto, así también como un dropdown menu.
+
+Wireframe de Menú de Registro para Usuario Experto Vendedor
+
+En este Wireframe, se presenta el primer menú que observará por pantalla un usuario que
+ingrese a nuestra aplicación Web, en este caso el usuario experto. Vemos que se aumenta un
+campo de input, así también observamos que el segundo botón ahora se encuentra
+encendido. Este wireframe corresponde al menú de registro de un nuevo usuario experto
+vendedor.
+
+![Wireframe](/Fotos/wf_f2.png)
+
+Esta propuesta es casi idéntica a la anterior. Se puede observar los mismos elementos de
+diseño. Además, si bien se agregó un nuevo campo de input, no se sobrecarga de
+información al usuario, haciendo uso de una buena arquitectura de información. Finalmente,
+se observan los mismos patrones o elementos de diseño.
+
+Wireframe de Menú de Inicio de Sesión Usuario Inexperto
+
+En este Wireframe, se puede observar que se selecciona el primer botón debido a que de
+esta manera estamos indicando que queremos iniciar sesión en una cuenta de usuario
+inexperto. Visualizamos que los campos de input se han reducido debido a que ya tenemos
+una cuenta creada y estamos listos para iniciar sesión
+
+![Wireframe](/Fotos/wf_f2.png)
+
+En esta propuesta de Wireframe observamos menos elementos de diseño, sin embargo solo
+se le muestra la información necesaria al usuario. Podemos observar que el modelo mental
+correspondiente a la arquitectura de información, respeta los patrones y hace más intuitivo el
+poder iniciar sesión por parte de un usuario inexperto.
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 #### 4.4.2. Web Applications Mock-ups
 #### 4.4.3. Web Applications User Flow Diagrams
