@@ -3,6 +3,10 @@
 ### 1.1.1. Descripción de la Startup
 Nuestro Startup *Ciberpunk 2099*, conformada por estudiantes de la facultad de Ingeniería de la UPC, tiene como propósito crear una aplicación web que asesore al usuario en la adquisición de componentes de computador de acuerdo a sus necesidades y compatibilidad con otros componentes. 
 
+Misión: Nuestra misión es ofrecer una amplia gama de productos y componentes de acuerdo a la necesidad del usuario, tanto para trabajo profesional o videojuegos.
+
+Visión: Nuestra visión es ser la marca Líder en venta de componentes con una reputación sólida y confiable para el mercado.
+
 ### 1.1.2. Perfiles de integrantes del equipo
 **Emilia Durán Santander**
 
@@ -12,20 +16,13 @@ Breve Descripcion
 
 **Mariano Alejandro Vilela Menéndez**
 
-Mi nombre es Mariano Alejandro Vilela Menéndez, soy estudiante de la carrera de 
-Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero
-una persona comprometida y responsable al momento de realizar trabajos. Soy bueno trabajando
-bajo presión y en quipo. En este trabajó aportaré con los conocimientos que adquirí
-en los anteriores cursos de la carrera, de tal manera el equipo podrá realizar un buen trabajo
-durante el transcurso del curso actual.
+Mi nombre es Mariano Alejandro Vilela Menéndez, soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona comprometida y responsable al momento de realizar trabajos. Soy bueno trabajando bajo presión y en quipo. En este trabajó aportaré con los conocimientos que adquirí en los anteriores cursos de la carrera, de tal manera el equipo podrá realizar un buen trabajo durante el transcurso del curso actual.
 
 ![Foto Perfil Mariano](/Fotos/Mariano.png)
 
 **Rodrigo Alejandro Raymundo Guevara**
 
-Mi nombre es Rodrigo Raymundo Guevara, tengo 22 años. Cuento con conocimientos 
-en Java, Spring Boot, Angular, C++ y Python. Fuera de lo académico me gusta 
-jugar videojuegos y ver peliculas. 
+Mi nombre es Rodrigo Raymundo Guevara, tengo 22 años. Cuento con conocimientos en Java, Spring Boot, Angular, C++ y Python. Fuera de lo académico me gusta jugar videojuegos y ver peliculas. 
 
 ![Foto Perfil Rodrigo](/Fotos/Rodrigo.png)
 
@@ -38,7 +35,7 @@ me encuentro realizando, ayudaré a dar ideas para poder desarrollar
 de la manera óptima el trabajo y aportar si es que alguien solicita 
 ayuda.
 
-![Foto Perfil Fabrizio](/Fotos/Fabrizio.jpeg)
+![Foto Perfil Fabrizio](/Fotos/Frabrizio.png)
 
 Breve Descripcion
 
@@ -54,9 +51,16 @@ alcanzando mis metas y encontrando satisfacción en mi carrera profesional
 
 **Gianfranco Luna Morales**
 
-Breve Descripcion
+Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; 
+soy práctico y racional para los percances que puedan surgir. Si bien poseo conocimientos básicos 
+en la programación en el lenguaje C++, aportaré en lo que pueda para realizar con éxito la idea planteada.
 
-![Foto Perfil Gianfranco](/Fotos/Gianfranco.png)
+
+![Foto Perfil Gianfranco](/Fotos/Gianfranco.jpg)
+
+
+
+
 
 ## 1.2. Solution Profile
 
@@ -77,7 +81,7 @@ En el mercado actual, la compra de componentes de computadoras es una tarea desa
 
 5. **Consumo de Energía Desconocido:** No entender el consumo de energía puede resultar en gastos más altos de electricidad y posibles problemas de alimentación.
 
-**Problemática:**
+•	What (Qué) ¿Cuál es el problema?
 
 La problemática que aborda este proyecto se resume en los siguientes puntos:
 
@@ -91,7 +95,23 @@ La problemática que aborda este proyecto se resume en los siguientes puntos:
 
 - **Problemas de Consumo de Energía:** El desconocimiento sobre el consumo de energía puede llevar a costos adicionales y preocupaciones ambientales.
 
-**Solución Propuesta:**
+•	When (Cuándo) ¿Cuándo sucede el problema?
+
+El problema sucede cuando el usuario se contacta son un tecnico o contacto de ensamblaje, consumen su tiempo tratando de entender cuál sería las piezas óptimas, así mismo, la posibilidad de ser estafados ante un aumento de precios.
+
+•	Where (Dónde) ¿Dónde ocurre el problema?
+
+La problemática ocurre en los centros de trabajo o en los hogares, ya que los componentes pueden volverse obsoletos y requeiren una actualizacion.
+
+•	Who (Quién) ¿Quién es afectado por el problema?
+
+El problema lo tienen las personas que optan por actualizar tu ordenador o conseguir componentes nuevos sin estar informados del mercado o de las especificaciones de estos.
+
+•	Why (Por qué) ¿Por qué ocurre el problema?
+
+El problema sucede porque no se contacta a un asesor confiable y de calidad, el cual no posee la experiencia o se aprovecha de la ignoracia del cliente, por lo que este termina accediendo ante los precios o información brindada del asesor en cuestión.
+
+•	How (Cómo) ¿Cómo resolver el problema?
 
 La solución propuesta es desarrollar una página web que aborde estas problemáticas proporcionando las siguientes funcionalidades:
 
@@ -106,6 +126,13 @@ La solución propuesta es desarrollar una página web que aborde estas problemá
 - **Comparación de Precios:** Los usuarios podrán comparar precios de componentes en diversas tiendas en línea.
 
 Esta solución busca empoderar a los usuarios con la información necesaria para tomar decisiones informadas al comprar y ensamblar componentes de computadoras, mejorando así su experiencia y confianza en el proceso.
+
+•	How much (Cuánto) ¿Cuánto costaría resolver el problema?
+
+
+
+
+
 ### 1.2.2.Lean UX Process
 
 - **Dominio:** Desarrollo de soluciones en línea para la compra y ensamblaje de componentes de computadoras.
@@ -133,7 +160,6 @@ Esta solución busca empoderar a los usuarios con la información necesaria para
 #### 1.2.2.4. Lean UX Canvas
 ![Lean UX canvas](/Fotos/Canvas.jpg)
 ## 1.3. Segmentos objetivo
-
 ## Capítulo II: Requirements Elicitation & Analysis 
 ### 2.1. Competidores
 #### 2.1.1. Análisis competitivo
