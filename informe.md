@@ -63,7 +63,13 @@ en la programación en el lenguaje C++, aportaré en lo que pueda para realizar 
 
 
 ## 1.2. Solution Profile
-
+Nuestra aplicación web llamada CyberPunk, está basada en brindar ayuda y
+resolver dudas sobre el hardware y software de la computadora o laptop, a
+consecuencia de la falta interés para informarse sobre los componentes del pc
+o laptop cuando piensan renovar o comprar el equipo. Además, nuestro
+objetivo al crear este proyecto es solucionar una necesidad que con el pasar de
+los años ha ido en crecimiento, ya que ahora muchas personas compran sus
+computadoras a ciegas por falta de conocimiento.
 ### 1.2.1. Antecedentes y problemática 
 En el contexto de este proyecto, se busca abordar la problemática de la falta de información y la dificultad que enfrentan las personas al comprar componentes de computadoras y ensamblar sus propios sistemas. Para muchos, esta tarea puede resultar abrumadora debido a la diversidad de opciones disponibles y la necesidad de asegurarse de que los componentes sean compatibles entre sí.
 
@@ -159,28 +165,194 @@ Esta solución busca empoderar a los usuarios con la información necesaria para
 
 #### 1.2.2.4. Lean UX Canvas
 ![Lean UX canvas](/Fotos/Canvas.jpg)
-## 1.3. Segmentos objetivo
+### 1.3. Segmentos objetivo
+Nuestro segmento objetivo está dirigido principalmente a hombres y mujeres de 15 a 30 años, residentes en la ciudad de Lima, que deseen adquirir o actualizar una computadora, laptop o componente específicamente para el fin previsto. Además, nuestra aplicación web ayudará principalmente a personas con poco conocimiento de hardware y software así como su importancia en la selección de equipos de procesamiento que se ajusten a su presupuesto. Por otro lado, te ahorraremos tiempo, dinero y sobre todo la seguridad de tu compra, evitando posibles fraudes.
 ## Capítulo II: Requirements Elicitation & Analysis 
 ### 2.1. Competidores
+Hemos podido identificar a varios competidores que ya llevan mucho tiempo en
+el mercado, ya que se posicionaron en el mercado por las publicidades, ofertas
+y recomendaciones de sus clientes, como principales tenemos a los centros
+comerciales, como falabella, oeschle, curacao, efe y otros centros que tienen
+asesores dentro de su tienda. Para contrarrestar esto, pensamos hacer
+publicidad por las redes sociales y trabajar con tiendas pequeñas.
+
+● Falabella es una tienda física que ofrece una amplia variedad de
+productos electrónicos, así como otros productos relacionados con el
+hogar y la moda. Se diferencian de las otras dos empresas en que tienen
+asesores dentro de la tienda que pueden brindar información detallada
+sobre los productos y ayudar a los clientes a tomar decisiones de compra.
+
+● PC Building Simulator es una aplicación educativa que permite a los
+usuarios aprender a armar una computadora y conocer los diferentes
+componentes que se utilizan en la construcción. Se enfoca en la
+educación y el aprendizaje, y su objetivo principal es ayudar a los
+usuarios a comprender mejor cómo funcionan las computadoras y cómo
+se ensamblan.
+
+● Core Gaming, por otro lado, es una plataforma en línea que permite a los
+usuarios construir su propia computadora desde cero. Ofrece una
+experiencia de compra personalizada en la que los usuarios pueden
+elegir los componentes que desean utilizar y armar su propia
+computadora de acuerdo con sus necesidades y presupuesto
+
+En términos de estrategias de mercado, Falabella y otros centros comerciales
+han utilizado principalmente publicidad tradicional y asesores en la tienda para
+atraer a los clientes. En cambio, PC Building Simulator y Core Gaming han
+utilizado principalmente herramientas digitales, como aplicaciones y
+plataformas en línea, para llegar a su público objetivo.
+En resumen, estas tres empresas se diferencian en la forma en que ofrecen
+sus productos y servicios, así como en sus estrategias de marketing. Cada una
+de ellas tiene su propio enfoque y ofrece beneficios únicos a sus clientes.
 #### 2.1.1. Análisis competitivo
 #### 2.1.2. Estrategias y tácticas frente a competidores
+Tras un análisis minucioso de nuestros principales competidores, hemos
+establecido las siguientes estrategias:
+1. Ampliar las pruebas gratuitas con mayor variedad de funciones.
+2. Prestar atención detallada a las reseñas y calificaciones de nuestra aplicación.
+3. Ofrecer la mayor compatibilidad y soporte posible con diferentes dispositivos y redes.
+4. Garantizar atención personalizada a través de nuestra plataforma virtual.
+5. Crear una página web oficial para nuestra empresa.
+6. Establecer un canal de atención al cliente fácilmente accesible
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
+Preguntas:
+1. ¿Cuál es tu nivel de experiencia en el ensamblaje de computadoras? (no se nada, se algo , soy experto)
+2. ¿Has tenido dificultades o sientes miedo para encontrar componentes compatibles entre sí al ensamblar una PC? (si , no)
+3. ¿Qué características son las más importantes para ti al comprar componentes? (precio, rendimiento, eficiencia energética, escalabilidad a futuro)
+4. ¿Qué te parece la idea de usar un sistema de simulación de ensamblado para garantizar la compatibilidad de los componentes antes de la compra? (me sirve, no me sirve)
+5. ¿Qué información consideras imprescindible al momento de comprar componentes para PC? (La marca, el precio, la ppopularidad)
+6. ¿Qué tipo de información te gustaría ver en la simulación de ensamblado? (precio total, consumo energético, rendimiento estimado, ffps aproximados de juegos, si soporta programas como Revit o autocad)
+7. ¿Consideras importante tener acceso a reseñas y opiniones de otros usuarios sobre los componentes?
+8. ¿Utilizarías la función de comparación de precios entre diferentes tiendas en línea?
+9. ¿Prefieres comprar todos los componentes en un solo lugar o estás dispuesto a realizar compras en diferentes tiendas en línea?
+10. ¿Estarías dispuesto a pagar una tarifa adicional por servicios de ensamblaje profesional o instalación de componentes?
 #### 2.2.2. Registro de entrevistas
+1. 
+    -**Nombre:**
+
+    -**Link:**
+
 #### 2.2.3. Análisis de entrevistas
+1.
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
+1. Usuario
+![UserPersona Usuario](/Fotos/User%20Persona%20Usuario.png)
+2. Experto
+![UserPersona Experpto](/Fotos/User%20Persona%20Experto.png)
 #### 2.3.2. User Task Matrix
+1. Usuario
+![UserTask Matrix](/Fotos/User%20Task%20Matrix%20Usuario.png)
+Explicacion: Esta tabla describe todo lo que hará el usuario en la app. Tiene algunas tareas
+como reservar asesoría y un catálogo de componentes de pc, comunicarse con
+asesor para que despeje todas sus dudas, realizar compra y por último escribir
+una reseña sobre el servicio 
+
+2. Experto
+![UserTask Matrix](/Fotos/User%20Task%20Matrix%20Experto.png)
+Explicación: Esta tabla describe todo lo que hará el experto en la app . Tiene algunas tareas
+como actualizar disponibilidad de su servicios y actualizar los precios de los
+componentes , comunicarse con el usuario que separó la asesoría , recibir el
+pago sobre todas las ventas y por último escribir una reseña sobre el servicio.
 #### 2.3.3. User Journey Mapping
+1. Usuario Inexperto
+![UJP Usuario](/Fotos/UJP%20Usuario.png)
+2. Usuario Experto Vendedor
+![UJP Experto](/Fotos/UJP%20vendedor.png)
 #### 2.3.4. Empathy Mapping
+1. Usuario
+![EM Usuario](/Fotos/EM%20Usuario.png)
+2. Experto
+![EM Experto](/Fotos/EM%20Experto.png)
+
 #### 2.3.5. As-is Scenario Mapping
 
+1. Usuario
+![Asis Usuario](/Fotos/AsIs%20Usuario.png)
+
+2. Experto
+![Asis Experto](/Fotos/AsIs%20Experto.png)
 ## Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping
-### 3.2. User Stories
-### 3.3. Impact Mapping
-### 3.4. Product Backlog
+1. Usuario
+![ToBe Usuario](/Fotos/ToBe%20Usuario.png)
 
+2. Experto
+![ToBe Experto](/Fotos/ToBe%20Experto.png)
+### 3.2. User Stories
+1. - **EP001**: Como usuario quiero registrarme en la página para poder buscar información de componentes de pc
+    - **US001**: Registro de usuario
+    - **Descripcion**: Como usuario quiero registrarme en la página para tener una cuenta
+    - **Criterios de aceptacion**: 
+        - Escenario: Registro nuevo usuario
+        - Dado que el nuevo usuario no tiene cuenta
+    Y se encuentra en la pestaña Registrarse, presiona el botón "Registrarse
+    con"
+    Cuando completa los campos requeridos (nombre, apellido, número de
+    celular, correo y contraseña)
+    Y presiona el botón "Registrarse"
+    Entonces se agrega al usuario a la base de datos con su correo y
+    contraseña
+    Y se muestra el mensaje "Usted se registró correctamente". Se enviará un
+    mensaje a su número para verificar sus datos
+2. - **EP002**: Como usuario quiero que la página me recomiende componentes según mi necesidad
+    - **US002**: Recomendación de componentes
+    - **Descripcion**: Como usuario quiero que la página me recomiende componentes según mi necesidad
+    - **Criterios de aceptacion**: 
+        - Escenario: Recomendar componentes
+        - Dado que la base de datos tiene registrado el interés el usuario Cuando se pida a la base de datos recomendar componentes Entonces se mostrará una serie de recomendaciones
+3. - **EP003**: Como usuario quiero ofertas en mis compras
+    - **US003**: Asignación de ofertas
+    - **Descripcion**: Como usuario quiero ofertas en mis compras
+    - **Criterios de aceptacion**: 
+        - Escenario: Ofrecer descuentos
+        - Dado que el usuario se inscribió a premium Cuando el usuario busque ofertas Entonces la base de datos le mostrará ofertas en los centros aliados a los nuestros
+4. - **EP004**: Como usuario quiero que me muestren modelos de los productos que necesito
+    - **US004**: Modelos de productos
+    - **Descripcion**: Como usuario quiero que me muestren modelos de los productos que necesito
+    - **Criterios de aceptacion**: 
+        - Escenario: Recomendar componentes
+        - Dado que el usuario se inscribió a premium Cuando el usuario busque los modelos de los componentes Entonces la base de datos le mostrará los modelos
+5. - **EP005**: Como usuario quiero que coticen los componentes elegidos
+    - **US005**: Cotización de componentes
+    - **Descripcion**: Como usuario quiero que coticen los componentes elegidos
+    - **Criterios de aceptacion**: 
+        - Escenario:  Precio de los Componentes
+        - Dado que el usuario está en la base de datos Cuando el usuario quiera ver el precio total o parcial de un componente Entonces las Base de datos le mostrará los precios    
+6. - **EP006**: Como usuario quiero hacer comentarios en los componentes comprados
+    - **US006**: Dejar opinión acerca del componente
+    - **Descripcion**: Como usuario quiero hacer comentarios en los componentes comprados
+    - **Criterios de aceptacion**: 
+        - Escenario:   Comentarios
+        - Dado que el usuario usó nuestros servicios Cuando el usuario desee hacer comentarios a sus compras Entonces se abrirá una sección comentarios de acuerdo con el componente seleccionado
+7.  - **EP007**: Como usuario quiero calificar la asistencia recibida
+    - **US007**: Dejar opinión de la asistencia de la página
+    - **Descripcion**: Como usuario quiero calificar la asistencia recibida
+    - **Criterios de aceptacion**: 
+        - Escenario:   Calificación
+        - Dado que el usuario usó nuestros servicios de asistencia Cuando el usuario busque calificar nuestros servicios Entonces se abrirá una pestaña para hacer comentarios a nuestros servicios
+8. - **EP008**: Como usuario quiero conocer tiendas cercanas a mi
+    - **US008**: Mostrar tiendas cercanas al usuario
+    - **Descripcion**: Como usuario quiero conocer tiendas cercanas a mi
+    - **Criterios de aceptacion**: 
+        - Escenario:    Tiendas
+        - Dado que la base de datos tiene la ubicación del usuario Cuando el usuario busque tiendas cercanas a él Entonces se abrirá un mapa con tiendas cercanas a él, con preferencia a las tiendas aliadas
+9. - **EP009**: Como usuario quiero realizar pedidos en línea
+    - **US009**: Compras en línea
+    - **Descripcion**: Como usuario quiero realizar pedidos en línea
+    - **Criterios de aceptacion**: 
+        - Escenario:    Tiendas
+        - Dado que tenemos alianzas con las tiendas Cuando el usuario quiera comprar en línea Entonces nosotros referimos la compra a la tienda que seleccione
+10. - **EP010**: Como usuario quiero obtener cupones
+    - **US010**: Asignación de cupones  
+    - **Descripcion**: Como usuario quiero obtener cupones
+    - **Criterios de aceptacion**: 
+        - Escenario:   Ofrecer descuentos
+        - Dado que tenemos alianzas con las tiendas Cuando el usuario se inscriba a premium Entonces nosotros le daremos una serie de cupones de descuento en diversos tipos de componentes
+### 3.3. Impact Mapping
+![Impact Mapping](/Fotos/Impact%20Mapping.png)
+### 3.4. Product Backlog
+![Product Backlog](/Fotos/Product%20Backlog.png)
 ## Capítulo IV: Product Design 
 ### 4.1. Style Guidelines
 #### 4.1.1. General Style Guidelines
