@@ -3,6 +3,10 @@
 ### 1.1.1. Descripción de la Startup
 Nuestro Startup *Ciberpunk 2099*, conformada por estudiantes de la facultad de Ingeniería de la UPC, tiene como propósito crear una aplicación web que asesore al usuario en la adquisición de componentes de computador de acuerdo a sus necesidades y compatibilidad con otros componentes. 
 
+Misión: Nuestra misión es ofrecer una amplia gama de productos y componentes de acuerdo a la necesidad del usuario, tanto para trabajo profesional o videojuegos.
+
+Visión: Nuestra visión es ser la marca Líder en venta de componentes con una reputación sólida y confiable para el mercado.
+
 ### 1.1.2. Perfiles de integrantes del equipo
 **Emilia Durán Santander**
 
@@ -47,9 +51,16 @@ alcanzando mis metas y encontrando satisfacción en mi carrera profesional
 
 **Gianfranco Luna Morales**
 
-Breve Descripcion
+Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; 
+soy práctico y racional para los percances que puedan surgir. Si bien poseo conocimientos básicos 
+en la programación en el lenguaje C++, aportaré en lo que pueda para realizar con éxito la idea planteada.
 
-![Foto Perfil Gianfranco](/Fotos/Gianfranco.png)
+
+![Foto Perfil Gianfranco](/Fotos/Gianfranco.jpg)
+
+
+
+
 
 ## 1.2. Solution Profile
 
