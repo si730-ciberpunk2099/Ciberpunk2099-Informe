@@ -797,7 +797,7 @@ Mock-up de Menú de Registro para Usuario Inexperto
 En este Wireframe, se presenta el primer menú que observará por pantalla un usuario que ingrese a nuestra aplicación Web, en este caso el usuario inexperto. Este wireframe corresponde al menú de registro de un nuevo usuario inexperto.
 El usuario inexperto tendrá que seleccionar que la cuenta que desea crear es de tipo inexperto. De esta manera, se habilitará los campos necesarios para un registro exitoso como los son: Nombres Completo, DNI, email y contraseña.
 
-![Mock-up](/Fotos/mu1)
+![Mock-up](/Fotos/mu1.png)
  
 En esta propuesta se evidencia una buena arquitectura de información, no sobrecargando al usuario y brindándole la información necesaria para un inicio de sesión exitoso. También podemos ver elementos de diseño que siguen ciertos patrones. Como por ejemplo los input que requieren que se ingrese texto, así también como un dropdown menu. Podemos observar un dropdown menu en el apartado de input de tipo de documento, esto corresponde a un elemento de diseño. También podemos observar un push button “Continuar” que no permitirá seguir a la página principal de la aplicación web.
 
@@ -807,7 +807,7 @@ Mock-up de Menú de Registro para Usuario Experto Vendedor
 
 En este Wireframe, se presenta la primera página que observa un usuario experto vendedor. Deberá registrar su cuenta seleccionando qué es un experto. Además deberá rellenar los mismos campos del usuario inexperto con la diferencia de que además tendrá que ingresar el nombre de tienda
 
-![Mock-up](/Fotos/mu2)
+![Mock-up](/Fotos/mu2.png)
 
 Esta propuesta es casi idéntica a la anterior. Se puede observar los mismos elementos de diseño. Además, si bien se agregó un nuevo campo de input, no se sobrecarga de información al usuario, haciendo uso de una buena arquitectura de información. Finalmente, se observan los mismos patrones o elementos de diseños como los push button, los radio button y los input de texto para rellenar el formulario de registro de cuenta.
 
@@ -816,7 +816,7 @@ Mock-up de Menú de Inicio de Sesión Usuario Inexperto
 
 En este Wireframe, se puede observar que se selecciona el primer botón debido a que de esta manera estamos indicando que queremos iniciar sesión en una cuenta de usuario inexperto. Visualizamos que los campos de input se han reducido debido a que ya tenemos una cuenta creada y estamos listos para iniciar sesión. Se ingresará los campos de correo electrónico y la contraseña previamente registrada. Finalmente se seleccionará el botón que tiene por texto “Continuar”
 
-![Mock-up](/Fotos/mu3)
+![Mock-up](/Fotos/mu3.png)
 
 En esta propuesta de Wireframe observamos menos elementos de diseño, sin embargo solo se le muestra la información necesaria al usuario. Podemos observar que el modelo mental correspondiente a la arquitectura de información, respeta los patrones y hace más intuitivo el poder iniciar sesión por parte de un usuario inexperto.
 
@@ -826,7 +826,7 @@ Vendedor
 
 En este Wireframe, se puede observar ahora que la segunda casilla es la que está encendida, significado que ahora el tipo de usuario a iniciar sesión hace referencia a un usuario experto vendedor. Observamos que son casi idénticas las interfaces de inicio de sesión de un usuario inexperto y de un usuario experto vendedor.
 
-![Mock-up](/Fotos/mu4)
+![Mock-up](/Fotos/mu4.png)
 
 Observamos que se hacen uso de los mismos patrones de diseño: Input de texto, botones de radio, botones para presionar. Se maneja un lenguaje breve y preciso para generar accesibilidad a la hora de iniciar sesión. Seguimos observando que solo los elementos necesarios están por pantalla.
 
@@ -835,7 +835,7 @@ Mock-up de Página Principal de Usuario Inexperto
 
 En este Wireframe, se presenta la pantalla principal de un usuario Inexperto. Se pueden observar tres secciones predominantes: Sección de Tiendas, sesión informativa y sección de comunicación con asesores expertos.
 
-![Mock-up](/Fotos/mu5)
+![Mock-up](/Fotos/mu5.png)
 
 
 En esta propuesta de Wireframe se observa que no se bombardea de información innecesaria al usuario, haciendo compatible una arquitectura de información en donde se permita encontrar los elementos de interés de manera rápida y sencilla. Contamos con imágenes para crear un sentido de relación con el texto. Se emplea un texto breve que describe las secciones de manera precisa.
@@ -844,7 +844,7 @@ Mock-up de Tiendas Asociadas por parte de Usuario Inexperto
 
 En este Wireframe, se visualiza las principales tiendas afiliadas o asociadas a nuestra aplicación. El usuario podrá navegar entre las distintas tiendas relacionadas al ámbito del cómputo e ingresar a interactuar más a fondo con la tienda que más le favorezca en sus decisión de compra. 
 
-![Mock-up](/Fotos/mu6)
+![Mock-up](/Fotos/mu6.png)
 
 En esta observamos distintos elementos de diseño, como por ejemplo la barra de búsqueda. Además podemos ver patrones en la muestra de las tiendas, todas manteniendo un mismo formato y apareciendo de manera principal, para que el usuario se guíe de manera más fácil cuando se traslada por la información de la página. Podemos ver una breve descripción de la tienda al costado de los logos de cada una de ellas.
 
@@ -852,7 +852,7 @@ Mock-up de Tienda Asociada específica por parte de Usuario Inexperto
 
 En este Wireframe, podemos visualizar la interfaz de una página destinada a una tienda específica. Se pueden observar filtros por la izquierda y resultados de productos de cómputo en la parte derecha de la página.
 
-![Mock-up](/Fotos/mu7)
+![Mock-up](/Fotos/mu7.png)
 
 En esta propuesta se evidencia que la sobrecarga del usuario es manejada por el uso de filtros ubicados en la parte izquierda de la página, los cuales hacen más fáciles los desplazamientos de navegación y evita la sobrecarga de información al usuario. Además contamos con un elemento de diseño el cual es la barra de búsqueda el cual permitirá una navegación más rápida y específica para el usuario.
 
@@ -860,7 +860,7 @@ Mock-up de Producto Específico por parte de Usuario Inexperto
 
 En este Wireframe, se puede observar la página referente a un producto de cómputo de una tienda específica. Se pueden observar diferentes elementos a lo largo del Wireframe.
 
-![Mock-up](/Fotos/mu8)
+![Mock-up](/Fotos/mu8.png)
 
 En esta propuesta de Wireframe observamos una principio para una buena arquitectura de información: La Jerarquía Visual. Podemos observar los Gestalt Principles, los cuales son un conjunto de patrones que agrupan y sitúan elementos similares en diversos sitios correspondientes de la página. Por ejemplo, podemos ver varias imágenes pequeñas debajo de la imagen grande del producto. Esto hace referencia a una galería de fotos e informa al usuario de que puede ver varias fotos del mismo producto desde diferentes perspectivas. Podemos además observar distintos elementos de input como el número de unidades a comprar y el push button de añadir al carrito.
 
@@ -868,7 +868,7 @@ Mock-up de Sección Informativa o Biblioteca por parte de Usuario Inexperto
 
 En este Wireframe, se observa la sección biblioteca o la sección informativa en la cual el usuario inexperto podrá nutrirse de información acerca de los componentes de software o hardware necesarios para su compra deseada. Podrá encontrar información en formatos escritos, de videos, visuales, entre otros.
 
-![Mock-up](/Fotos/mu9)
+![Mock-up](/Fotos/mu9.png)
 
 En esta propuesta se observa la presencia de filtros, lo cual contribuye a un buen principio de la arquitectura de la información. Podemos observar distintos tipos de filtros como lo son el tipo de información escrita, la duración de los videos, los temas relacionados. Esto reduce la cantidad de información que tendrá que procesar el usuario.
 
@@ -877,7 +877,7 @@ Mock-up de Vídeo Informativo por parte de Usuario Inexperto
 En este Wireframe, el usuario entra a un video informativo específico para adquirir conocimientos acerca de las nuevas tecnologías. En este Wireframe se puede observar el video, su descripción y transcripción, así también como otros videos relacionados que le pueden interesar.
 
 
-![Mock-up](/Fotos/mu10)
+![Mock-up](/Fotos/mu10.png)
 
 En esta propuesta contribuye a los Gestalt Principles, principios para una buena arquitectura de información. Así como también obedece al diseño inclusivo, adjuntando las transcripciones del video al lado de este, para las personas sordas, o personas sordomudas. También se puede observar un texto descriptivo con referencia al video, esto ayuda a la comprensión y situación de contexto, acciones necesarias para brindar una usabilidad más palpable al usuario.
 
@@ -885,7 +885,7 @@ Mock-up de Comunicación con asesor experto por parte de Usuario Inexperto
 
 En este Wireframe, se puede observar la página que hará uso un usuario inexperto para comunicarse con un asesor experto. Este asesor se comunicará vía mensaje de texto para poder contestarle sus preguntas y absolver las dudas acerca de los componentes de hardware y software.
 
-![Mock-up](/Fotos/mu11)
+![Mock-up](/Fotos/mu11.png)
 
 Observamos que presentamos jerarquía visual, al presentar elementos con diseños similares y patrones idénticos en el mismo lugar de la página. Presenciamos la información justa y necesaria para la comunicación entre usuario y asesor, siempre evitando sobrecargar al usuario. Observamos además el fácil acceso a otros chats con otros asesores.
 
@@ -893,7 +893,7 @@ Mock-up de Productos de Tienda de Usuario Experto Vendedor
 
 En este Wireframe, se puede observar la página referente la tienda de un usuario experto vendedor. Se logra visualizar un apartado con cuatro imágenes que en este caso corresponden a las fotos de los productos presentes en el catálogo de la tienda.
 
-![Mock-up](/Fotos/mu12)
+![Mock-up](/Fotos/mu12.png)
 
 En esta propuesta se presencia una jerarquía visual, acomodando estratégicamente los elementos con patrones similares en un lugar de la página. Lo que se muestra primero son los productos de la tienda. Nuevamente, se muestran los elementos necesarios que tendrá que procesar el usuario. Además se observan las especificaciones de cada producto con cierto patrón esparcido y repetido en todos los productos presentes. Esto hace referencia nuevamente a la jerarquía visual y contribuye también al mental model del usuario.
 
@@ -902,7 +902,7 @@ Mock-up de Edición o Actualización de Productos de Tienda de Usuario Experto V
 
 En este Wireframe, se puede observar que unos botones aparecen debajo de la descripción de cada producto. Si el usuario experto vendedor da click a ese botón, quiere decir que desea actualizar dicho producto del catálogo de la tienda.
 
-![Mock-up](/Fotos/mu13)
+![Mock-up](/Fotos/mu13.png)
 
 En esta propuesta de Wireframe, si bien se incrementaron los elementos de diseño, se sigue manteniendo la jerarquía visual y los gestalt principles. Es por esta razón que la información es más fácil de encontrar. El texto contenido en los nuevos push buttons que aparecieron es simple y fácil accesibilidad, esto lo hace más inclusivo para personas con déficit de atención o otros desórdenes o enfermedades cognitivas.
 
@@ -910,7 +910,7 @@ Mock-up de Edición de Producto Específico de Tienda de Usuario Experto Vendedo
 
 En este Wireframe, podemos observar la página que hace referencia a la edición de un producto específico de la tienda. Se puede observar varios campos que existen para ser rellenados con la información actualizada sobre un producto nuevo o existente.
 
-![Mock-up](/Fotos/mu14)
+![Mock-up](/Fotos/mu14.png)
 
 
 En esta propuesta de Wireframe, observamos un incremento de los elementos de diseño principales de la página. Sin embargo, todo de manera concisa y breve, no afectando la carga de información presente en la página.
@@ -919,7 +919,7 @@ Mock-up de Página de Ventas por parte de Usuario Experto Vendedor
 
 En este Wireframe, se puede visualizar las ventas del experto vendedor. Tantos las ventas realizadas, como las ventas por concretar pueden ser del alcance del experto mediante la aplicación web.
 
-![Mock-up](/Fotos/mu15)
+![Mock-up](/Fotos/mu15.png)
 
 En esta propuesta de Wireframe se visualiza elementos similares en una posición parecida dentro de la página. Asimismo, podemos ver elementos de diseño como un menú dropdown, así también como botones input presentes a lo largo de la página.
 
@@ -928,7 +928,7 @@ Mock-up de Detalles de Venta de Usuario Experto Vendedor
 En este Wireframe, se puede observar una página mediante la cual el experto vendedor podrá visualizar los detalles de una compra realizada por un cliente a un producto de su tienda.
 
 
-![Mock-up](/Fotos/mu16)
+![Mock-up](/Fotos/mu16.png)
 
 Se puede observar tanto la imagen del producto vendido, así también como los detalles del producto y detalles de la venta. Se mantiene una información concisa y no sobrecargada, así también como una distribución guiada por patrones y accesible. Se mantiene un diseño minimalista acorde con los módulos de información presentada.
 
@@ -937,7 +937,7 @@ Vendedor
 
 En este Wireframe, se puede observar la página en donde el usuario experto vendedor redactará la proforma de la compra realizada por un cliente.
 
-![Mock-up](/Fotos/mu17)
+![Mock-up](/Fotos/mu17.png)
 
 En esta propuesta de Wireframe se observan los elementos de diseño visuales necesarios, como formularios, push buttons, entre otros. Se sigue el mental model esperado por parte del usuario al ilustrar la proforma.
 
@@ -945,7 +945,7 @@ Mock-up de Chat de Asesoramiento de Usuario Experto Vendedor
 
 En este Wireframe, se puede observar la página mediante la cual el usuario experto podrá sostener una conversación con un usuario inexperto para asesorarlo en cuanto a dudas que tenga o presente.
 
-![Mock-up](/Fotos/mu18)
+![Mock-up](/Fotos/mu18.png)
 
 En esta propuesta de Wireframe se observa la jerarquía visual presente, así también como el modelo mental esperado por parte del usuario que desea tener un chat o conversación con otro usuario. Se puede observar un mental model cumplido, debido a que la distribución de los elementos de esta página son los esperados por el usuario debido a sus experiencias en otras páginas de chat del pasado.
 
