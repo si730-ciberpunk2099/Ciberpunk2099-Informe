@@ -355,17 +355,84 @@ pago sobre todas las ventas y por último escribir una reseña sobre el servicio
 ![Product Backlog](/Fotos/Product%20Backlog.png)
 ## Capítulo IV: Product Design 
 ### 4.1. Style Guidelines
+![Product Design](/Fotos/Style%20Guidelines.JPG)
 #### 4.1.1. General Style Guidelines
+![Product Backlog](/Fotos/OpenSource%20text.JPG)
+La fuente "Open Source" es una opción moderna y legible para aquellos que buscan una fuente sans-serif para sus proyectos de diseño gráfico. 
+Como una fuente open source, está disponible de forma gratuita para cualquier persona que la quiera utilizar. Su diseño limpio y minimalista
+la hace adecuada para una amplia variedad de aplicaciones, desde textos largos hasta titulares y logotipos.
+![Product Backlog](/Fotos/Roboto%20text.JPG)
+La fuente "Roboto" es una opción moderna y legible para aquellos que buscan una fuente sans-serif para sus proyectos de diseño gráfico. 
+Como una fuente open source, está disponible de forma gratuita para cualquier persona que la quiera utilizar. Su diseño limpio y minimalista 
+la hace adecuada para una amplia variedad de aplicaciones, desde textos largos hasta titulares y logotipos.
 #### 4.1.2. Web Style Guidelines
+![Product Design](/Fotos/WebStyle%20Guidelines.JPG)
 ### 4.2. Information Architecture
+Página de Inicio
+- Encabezado que incorpora el logotipo y un menú de navegación.
+- Espacio destinado a la búsqueda de asesoramiento sobre componentes o laptops.
+- Sección para buscar componentes de PC o laptops.
+- Área para ponerse en contacto con el equipo de soporte técnico.
+
+Sección de Asesoramiento
+- Espacio dedicado a la descripción de los tipos de preguntas y consultas que pueden ser atendidas.
+- Formulario de contacto disponible para solicitar asesoramiento personalizado.
+- Sección que exhibe a los expertos en hardware y software que ofrecen servicios de asesoramiento.
+
+Sección de Componentes
+- Categorías de componentes de PC o laptops, como procesadores, tarjetas gráficas, discos duros, etc.
+- Espacio para mostrar las especificaciones, características y precios de los componentes.
+- Lista de tiendas o distribuidores oficiales donde es posible adquirir los componentes.
+- Sección para resaltar productos con descuentos.
+
+Sección de Soporte Técnico
+- Área para presentar preguntas frecuentes relacionadas con hardware y software.
+- Formulario de contacto para enviar consultas o dudas técnicas.
+- Sección que introduce a los expertos en hardware y software que proporcionan soporte técnico.
+- Espacio para exhibir tutoriales o guías de instalación de los componentes.
 #### 4.2.1. Organization Systems
+En nuestra startup, tenemos la intención de implementar una estrategia que combine la organización visual y la categorización 
+de contenido con el fin de asegurar una experiencia óptima para nuestros usuarios. En relación a la organización visual, nos 
+concentraremos en establecer una jerarquía visual que resalte la información más importante y su relación con otros elementos
+de contenido. También utilizaremos una estructura secuencial para guiar a los usuarios a través de los pasos necesarios para 
+lograr sus objetivos.
+
+En lo que respecta a la categorización de contenido, emplearemos tanto esquemas alfabéticos como categorías temáticas para 
+simplificar la búsqueda de información de manera rápida y sencilla para nuestros usuarios. Además, consideraremos las necesidades
+específicas de nuestra audiencia al organizar el contenido de manera adecuada.
+
+En resumen, nuestro objetivo principal es proporcionar a los usuarios una experiencia intuitiva y fácil de usar, lo que implica 
+una organización eficiente y clara del contenido en nuestra página web.
 #### 4.2.2. Labeling Systems
+En la startup de Labeling Systems, se utilizarán etiquetas que sean claras y precisas para representar los conjuntos de datos. 
+El propósito es evitar cualquier confusión entre los visitantes y usuarios, por lo tanto, se optará por términos específicos y
+fácilmente comprensibles.
+![Product Design](/Fotos/Labeling%20systems.JPG)
 #### 4.2.3. SEO Tags and Meta Tags
+Para mejorar la visibilidad de nuestro sitio web, es esencial establecer de manera apropiada los etiquetas de SEO Tags y Meta Tags.
+Claro, aquí tienes la copia de las etiquetas meta:
+
+- `<meta name="language" content="spanish">`
+- `<meta name="description" content="Encuentra la asesoría que necesitas para comprar los mejores componentes de PC y laptops a precios justos y económicos.">`
+- `<meta name="keywords" content="asesoría, PC, económico">`
+- `<meta name="author" content="Grupo 2">`
+- `<meta name="audience" content="all">`
+- `<meta name="category" content="components, PC">`
 #### 4.2.4. Searching Systems
+Con el objetivo de simplificar la ubicación de información en nuestra aplicación, hemos implementado un sistema de búsqueda que 
+incluye opciones para buscar por nombre y aplicar filtros, lo que permite a los usuarios refinar sus búsquedas según sus necesidades 
+específicas. Después de realizar una búsqueda, los resultados se mostrarán en una lista ordenada en función de su relevancia y podrán 
+ser visualizados en un formato de lista o en una vista de galería que permitirá ver las imágenes de los productos. Además, se mostrarán 
+los detalles de cada producto, incluyendo su nombre, marca, precio, descripción y las calificaciones proporcionadas por los usuarios.
 #### 4.2.5. Navigation Systems
+![Product Design](/Fotos/Navigation%20systems.JPG)
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
+![Product Design](/Fotos/LandingPage%20Wireframe1.JPG)
+![Product Design](/Fotos/LandingPage%20Wireframe2.JPG)
 #### 4.3.2. Landing Page Mock-up
+![Product Design](/Fotos/LandingPage%20MockUps1.JPG)
+![Product Design](/Fotos/LandingPage%20MockUps2.JPG)
 ### 4.4. Web Applications UX/UI Design
 
 
