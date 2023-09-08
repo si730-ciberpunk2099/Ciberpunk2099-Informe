@@ -543,6 +543,186 @@ En esta propuesta de Wireframe se observa la jerarquía visual presente, así ta
 
 
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+User Persona: Usuario Inexperto
+
+User Goal:  Iniciar Sesión
+
+Descripción de User Goal:  El usuario inexperto tendrá por objetivo realizar un inicio de sesión exitoso, rellenando todos los campos necesarios para poder dirigirse a la pantalla principal de su perfil sin ningún problema.
+
+Explicación de Flujo:
+
+Primero el usuario inexperto tendrá que registrarse. Para eso debe seleccionar el primer botón de radio de los dos botones de radio presentes, es decir es el que se encuentra más a la izquierda. Señalando este botón indica que la cuenta a registrarse es una cuenta de un usuario inexperto.
+
+![WireflowDiagram](/Fotos/wfd1.png)
+
+Después tendrá que rellenar todos los campos que se necesitan completar para poder crear la cuenta de inexperto. 
+
+![WireflowDiagram](/Fotos/wfd2.png)
+
+Por último le tendrá que dar click al botón el cual es de color marrón para poder crear la cuenta exitosamente.
+
+
+Ahora le aparecerá la página de inicio de sesión, en la cual tendrá que rellenar los campos necesarios
+
+![WireflowDiagram](/Fotos/wfd3.png)
+
+Por último le tendrá que dar click al botón el cual es de color marrón para poder iniciar sesión.
+
+User Goal:  Comunicarse con un asesor
+
+Descripción de User Goal: El usuario inexperto tendrá por objetivo comunicarse con un asesor. Es decir, mandar un mensaje a un asesor experto vía chat.
+
+Explicación de Flujo:
+
+El usuario experto después de haber iniciado sesión descrito en el Task Flow anterior, se encontrará en la página principal de la aplicación.
+Ahora es cuando debe dirigirse al apartado de Asesores, el apartado que se encuentra más a la derecha, y deberá darle click al botón marrón que permitirá que el flujo siga.
+
+![WireflowDiagram](/Fotos/wfd4.png)
+
+El usuario experto después de haber iniciado sesión descrito en el Task Flow anterior, se encontrará en la página principal de la aplicación.
+Ahora es cuando debe dirigirse al apartado de Asesores, el apartado que se encuentra más a la derecha, y deberá darle click al botón marrón que permitirá que el flujo siga.
+
+![WireflowDiagram](/Fotos/wfd5.png)
+
+
+Ya dentro de la interfaz del chat con el asesor, deberá escribir un mensaje para establecer comunicación con el. Finalmente le da click a la flechita de enviar para enviar su mensaje.
+
+User Goal:  Dirigirse a una tienda
+
+Descripción de User Goal: El usuario inexperto tendrá por objetivo dirigirse a una tienda específica de las tantas tiendas afiliadas de nuestra aplicación. 
+
+![WireflowDiagram](/Fotos/wfd6.png)
+
+
+Explicación de Flujo:
+
+Después de haber iniciado sesión como usuario inexperto, el usuario deberá dirigirse al apartado de Tiendas en la página principal de la aplicación.
+
+![WireflowDiagram](/Fotos/wfd7.png)
+
+Luego, deberá dirigirse a una de las tiendas que desee. 
+
+![WireflowDiagram](/Fotos/wfd8.png)
+
+Finalmente, el usuario inexperto ya se encuentra dentro de la tienda que eligió. Ahora podrá revisar y navegar según su comodidad.
+
+![WireflowDiagram](/Fotos/wfd9.png)
+
+User Goal:  Revisar especificaciones de un dispositivo
+
+Descripción de User Goal: El usuario inexperto tendrá por objetivo visualizar las especificaciones técnicas de un dispositivo de una tienda específica.
+
+Explicación de Flujo:
+
+El usuario inexperto deberá haberse registrado e iniciado sesión según el Task Flow propuesto con anterioridad. Luego, deberá cumplir el Task Flow de dirigirse a una tienda específica. Ya en la página de tienda específica, tendremos que seleccionar un producto.
+
+![WireflowDiagram](/Fotos/wfd10.png)
+
+Ya habiéndo dado click al título del producto, la aplicación dirigirá al usuario inexperto a la página de un producto en específico.
+
+![WireflowDiagram](/Fotos/wfd11.png)
+
+Finalmente, como el User Goal lo menciona, el usuario podrá revisar las especificaciones y detalles técnicos de un producto en específico.
+
+
+User Goal:  Revisar video informativo
+
+Descripción de User Goal: El usuario inexperto tendrá por objetivo visualizar un video informativo acerca de un tema de hardware o software para informarse mejor sobre una futura compra
+
+Explicación de Flujo:
+El usuario inexperto después de haber completado exitosamente el Task Flow de Registrarse e Iniciar Sesión, deberá dirigirse a la sección de Biblioteca ubicada en la parte central de la página principal de la aplicación.
+
+![WireflowDiagram](/Fotos/wfd12.png)
+
+Luego se encontrará en la página de Biblioteca de la aplicación, en donde residen distintos tipos de fuentes de información acerca de dispositivos de hardware y de software. Deberá darle click a una fuente de información en específico, en este caso, un video. Un video puede salir en la pantalla principal de la página, o el usuario puede apoyarse en los filtros. El usuario deberá hacerle click a la imagen del video o a su título para redirigirlo a la siguiente página de Task Flow.
+
+![WireflowDiagram](/Fotos/wfd13.png)
+
+ Después de haberle hecho click a un video en específico habremos llegado al escenario o página final para completar nuestro Task Flow: La página de fuente de información en específico. En dicha página encontraremos información acerca de la fuente de información. En este caso, encontraremos la descripción y la transcripción del vídeo, así también  como detalles del autor/a y las fuentes que se utilizaron para la realización del video en cuestión, además de su duración,etc. Finalmente, clickeamos en el video para empezar a revisarlo.
+
+![WireflowDiagram](/Fotos/wfd14.png)
+
+User Persona: Usuario Experto Vendedor
+
+
+User Goal:  Iniciar Sesión
+
+Descripción de User Goal: El usuario experto vendedor tendrá por objetivo realizar un inicio de sesión exitoso, rellenando todos los campos necesarios para poder dirigirse a la pantalla principal de su perfil sin ningún problema.
+
+
+Explicación de Flujo:
+
+El usuario experto vendedor tendrá que crear una cuenta de tipo experto y rellenar todos los campos necesarios para poder iniciar sesión en la aplicación.
+
+![WireflowDiagram](/Fotos/wfd15.png)
+
+Después de haber completado el formulario de registro de cuenta, rellenando todos los campos necesarios, el usuario tendrá que dar click al botón marrón que se encuentra en la parte inferior para proceder con el protocolo o llegar al User Goal de inicio de sesión. El usuario será transportado a la página de inicio de sesión y deberá rellenar los campos necesarios.
+
+![WireflowDiagram](/Fotos/wfd16.png)
+ 	
+	
+Finalmente el usuario deberá darle click al botón marrón que se encuentra en la parte inferior del formulario para poder iniciar sesión con su cuenta de manera correcta.
+
+
+User Goal:  Revisar ventas realizadas por clientes
+
+Descripción de User Goal: El usuario experto vendedor tendrá por objetivo visualizar las ventas realizadas por clientes, observando los detalles de la venta.
+
+Explicación de Flujo:
+El usuario vendedor luego de haber completado exitosamente el Task Flow de Inicio de Sesión previamente descrito, se encontrará en la pantalla principal de la aplicación, en el cual se encuentran todos los 
+detalles relacionados con su tienda. 
+
+![WireflowDiagram](/Fotos/wfd17.png)
+
+Tendrá que dirigirse a la segunda pestaña superior del medio para dirigirse al apartado de ventas.
+
+![WireflowDiagram](/Fotos/wfd18.png)
+
+Finalmente, tendrá que seleccionar la primera casilla del dropdown menu para dirigirse a Ventas Realizadas y revisar a preferencia dichas ventas.
+
+
+User Goal:  Actualizar catálogo de productos
+
+Descripción de User Goal: El usuario experto vendedor tendrá por objetivo actualizar un producto del catálogo de productos de su tienda.
+
+Explicación de Flujo:
+
+Luego de que el usuario experto vendedor haya completado exitosamente en Task Flow de Iniciar Sesión, tendrá que dirigirse a la primera pestaña de su página principal,es decir, a la pestaña de Productos. Ubicado en esa pestaña, tendrá que presionar la casilla marrón que dice “Actualizar Productos”.
+
+![WireflowDiagram](/Fotos/wfd19.png)
+
+Después, le saldrán nuevas casillas marrones ubicadas cerca de cada producto del catálogo. Dichas casillas dirán “Actualizar producto”. Como su mismo nombre lo indica, esta casilla servirá para editar el producto actual, o colocar uno nuevo debido a diversas razones. El usuario experto vendedor tendrá que dar click en la casilla marrón del producto deseado a actualizar.
+
+![WireflowDiagram](/Fotos/wfd20.png)
+
+Finalmente, le aparecerá un formulario con varios campos. Estos campos se deberán rellenar con los nuevos valores del nuevo producto actualizado. El usuario experto vendedor logró con el User Goal de actualizar un producto del catálogo de productos.
+
+![WireflowDiagram](/Fotos/wfd21.png)
+
+User Goal:  Rellenar proformas de dispositivos comprados por clientes
+
+Descripción de User Goal: El usuario experto vendedor tendrá por objetivo rellenar las proformas de ventas realidad por clientes en su tienda.
+
+
+Explicación de Flujo:
+
+El usuario experto vendedor deberá haber iniciado sesión correctamente y haber completado el Task Flow de ingresar a la zona de ventas de su página principal o página de su tienda. Dentro de ahí deberá seleccionar la casilla de ventas (primera casilla )realizadas dentro del dropdown menu.
+
+![WireflowDiagram](/Fotos/wfd22.png)
+
+Ya dentro de la página correcta, proseguimos dándole a la casilla marrón de “Ver más detalles” del producto deseado a rellenar la proforma.
+
+![WireflowDiagram](/Fotos/wfd23.png)
+
+Ya en esta página, se deberá escoger la segunda casilla (la más a la derecha), que indica el menú de proforma de la venta.
+
+![WireflowDiagram](/Fotos/wfd24.png)
+
+Finalmente, el usuario experto vendedor rellena la proforma con los campos correspondientes para la compra del usuario.
+
+![WireflowDiagram](/Fotos/wfd25.png)
+
 #### 4.4.2. Web Applications Mock-ups
 #### 4.4.3. Web Applications User Flow Diagrams
 ### 4.5. Web Applications Prototyping
