@@ -251,17 +251,17 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u201918216_upc_edu_pe/EayFuPfS
 
 ##### Entrevista 1:
 
-Nombre: Abraham Mamani Yupanqui
+    Nombre: Abraham Mamani Yupanqui
 
-Edad: 30 años
+    Edad: 30 años
 
-Estudios: Ingenieria Civil
+    Estudios: Ingenieria Civil
 
-Conocimientos del tema: Poco
+    Conocimientos del tema: Poco
 
 ##### Entrevista 2:
 
-    Nombre: **Kimberly Moretti De Santi**
+    Nombre: Kimberly Moretti De Santi
 
     Edad: 23 años
 
@@ -300,19 +300,22 @@ Conocimientos del tema: Poco
 
 1. Usuario
 
-![UserTask Matrix](/Fotos/User%20Task%20Matrix%20Usuario.png)
-Explicacion: Esta tabla describe todo lo que hará el usuario en la app. Tiene algunas tareas
-como reservar asesoría y un catálogo de componentes de pc, comunicarse con
-asesor para que despeje todas sus dudas, realizar compra y por último escribir
-una reseña sobre el servicio 
+| Usuario                               | Frecuencia                         | Importancia |
+|---------------------------------------|------------------------------------|-------------|
+| Registrarse                                   | Una vez                    | Alta        |
+| Iniciar sesión                                | Una vez                    | Alta        |
+| Dar a conocer el futuro uso para la PC        | Siempre                    | Alta        |
+| Ver los componentes necesarios                | Siempre                    | Alta        |
+| Acceder a la simulacion                       | Siempre                    | Alta        |
+| Ver variedad de informacion al terminar       | Siempre                    | Media       |
+| Recibir recomendaciones y consejos            | Siempre                    | Alta        |
+| Las tiendas por medio de la pagina            | Siempre                    | Alta        |
+| Proporcionar comentarios sobre el servicio    | A veces                    | Media       |
 
-2. Experto
-![UserTask Matrix](/Fotos/User%20Task%20Matrix%20Experto.png)
-Explicación: Esta tabla describe todo lo que hará el experto en la app . Tiene algunas tareas
-como actualizar disponibilidad de su servicios y actualizar los precios de los
-componentes , comunicarse con el usuario que separó la asesoría , recibir el
-pago sobre todas las ventas y por último escribir una reseña sobre el servicio.
-#### 2.3.3. User Journey Mapping
+
+Explicacion: Esta tabla describe todo lo que hará el usuario en la app. Tiene un catálogo de componentes de pc, y su respectiva simulacion de ensamblaje y al fiunalizar puede dar una mejor respuesta al momento de realizar compra en otras paginas y opcionalmente escribir
+una reseña sobre el servicio.
+
 1. Usuario Inexperto
 ![UJP Usuario](/Fotos/UJP%20Usuario.png)
 2. Usuario Experto Vendedor
