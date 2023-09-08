@@ -380,7 +380,7 @@ En este Wireframe, se presenta el primer menú que observará por pantalla un us
 ingrese a nuestra aplicación Web, en este caso el usuario inexperto. Este wireframe
 corresponde al menú de registro de un nuevo usuario inexperto.
 
-![Wireframe](/Fotos/wf_f1.png)
+![Wireframe](/Fotos/wf%20f1.png)
 
 En esta propuesta se evidencia una buena arquitectura de información, no sobrecargando al
 usuario y brindándole la información necesaria para un inicio de sesión exitoso. También
@@ -395,7 +395,7 @@ campo de input, así también observamos que el segundo botón ahora se encuentr
 encendido. Este wireframe corresponde al menú de registro de un nuevo usuario experto
 vendedor.
 
-![Wireframe](/Fotos/wf_f2.png)
+![Wireframe](/Fotos/wff2.png)
 
 Esta propuesta es casi idéntica a la anterior. Se puede observar los mismos elementos de
 diseño. Además, si bien se agregó un nuevo campo de input, no se sobrecarga de
@@ -409,7 +409,7 @@ esta manera estamos indicando que queremos iniciar sesión en una cuenta de usua
 inexperto. Visualizamos que los campos de input se han reducido debido a que ya tenemos
 una cuenta creada y estamos listos para iniciar sesión
 
-![Wireframe](/Fotos/wf_f2.png)
+![Wireframe](/Fotos/wff3.png)
 
 En esta propuesta de Wireframe observamos menos elementos de diseño, sin embargo solo
 se le muestra la información necesaria al usuario. Podemos observar que el modelo mental
