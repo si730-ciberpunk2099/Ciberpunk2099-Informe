@@ -316,30 +316,23 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u201918216_upc_edu_pe/EayFuPfS
 Explicacion: Esta tabla describe todo lo que hará el usuario en la app. Tiene un catálogo de componentes de pc, y su respectiva simulacion de ensamblaje y al fiunalizar puede dar una mejor respuesta al momento de realizar compra en otras paginas y opcionalmente escribir
 una reseña sobre el servicio.
 
-1. Usuario Inexperto
+1. Usuario
 ![UJP Usuario](/Fotos/UJP%20Usuario.png)
-2. Usuario Experto Vendedor
-![UJP Experto](/Fotos/UJP%20vendedor.png)
+
 #### 2.3.4. Empathy Mapping
 1. Usuario
 ![EM Usuario](/Fotos/EM%20Usuario.png)
-2. Experto
-![EM Experto](/Fotos/EM%20Experto.png)
 
 #### 2.3.5. As-is Scenario Mapping
 
 1. Usuario
 ![Asis Usuario](/Fotos/AsIs%20Usuario.png)
 
-2. Experto
-![Asis Experto](/Fotos/AsIs%20Experto.png)
 ## Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping
 1. Usuario
 ![ToBe Usuario](/Fotos/ToBe%20Usuario.png)
 
-2. Experto
-![ToBe Experto](/Fotos/ToBe%20Experto.png)
 ### 3.2. User Stories
 1. - **EP001**: Como usuario quiero registrarme en la página para poder buscar información de componentes de pc
     - **US001**: Registro de usuario
