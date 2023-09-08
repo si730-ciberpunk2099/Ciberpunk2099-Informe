@@ -81,7 +81,7 @@ En el mercado actual, la compra de componentes de computadoras es una tarea desa
 
 5. **Consumo de Energía Desconocido:** No entender el consumo de energía puede resultar en gastos más altos de electricidad y posibles problemas de alimentación.
 
-**Problemática:**
+•	What (Qué) ¿Cuál es el problema?
 
 La problemática que aborda este proyecto se resume en los siguientes puntos:
 
@@ -95,7 +95,23 @@ La problemática que aborda este proyecto se resume en los siguientes puntos:
 
 - **Problemas de Consumo de Energía:** El desconocimiento sobre el consumo de energía puede llevar a costos adicionales y preocupaciones ambientales.
 
-**Solución Propuesta:**
+•	When (Cuándo) ¿Cuándo sucede el problema?
+
+El problema sucede cuando el usuario se contacta son un tecnico o contacto de ensamblaje, consumen su tiempo tratando de entender cuál sería las piezas óptimas, así mismo, la posibilidad de ser estafados ante un aumento de precios.
+
+•	Where (Dónde) ¿Dónde ocurre el problema?
+
+La problemática ocurre en los centros de trabajo o en los hogares, ya que los componentes pueden volverse obsoletos y requeiren una actualizacion.
+
+•	Who (Quién) ¿Quién es afectado por el problema?
+
+El problema lo tienen las personas que optan por actualizar tu ordenador o conseguir componentes nuevos sin estar informados del mercado o de las especificaciones de estos.
+
+•	Why (Por qué) ¿Por qué ocurre el problema?
+
+El problema sucede porque no se contacta a un asesor confiable y de calidad, el cual no posee la experiencia o se aprovecha de la ignoracia del cliente, por lo que este termina accediendo ante los precios o información brindada del asesor en cuestión.
+
+•	How (Cómo) ¿Cómo resolver el problema?
 
 La solución propuesta es desarrollar una página web que aborde estas problemáticas proporcionando las siguientes funcionalidades:
 
@@ -110,6 +126,13 @@ La solución propuesta es desarrollar una página web que aborde estas problemá
 - **Comparación de Precios:** Los usuarios podrán comparar precios de componentes en diversas tiendas en línea.
 
 Esta solución busca empoderar a los usuarios con la información necesaria para tomar decisiones informadas al comprar y ensamblar componentes de computadoras, mejorando así su experiencia y confianza en el proceso.
+
+•	How much (Cuánto) ¿Cuánto costaría resolver el problema?
+
+
+
+
+
 ### 1.2.2.Lean UX Process
 
 - **Dominio:** Desarrollo de soluciones en línea para la compra y ensamblaje de componentes de computadoras.
