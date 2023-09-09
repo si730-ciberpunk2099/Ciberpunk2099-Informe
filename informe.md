@@ -1167,23 +1167,173 @@ AccountFactory: Builder para la creación de cuentas de los usuarios
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
 #### 5.1.1. Software Development Environment Configuration
+
+#### Configuración
+
+Para la elaboración de este proyecto hemos utilizado diferentes herramientas que nos han ayudado en el desarrollo de la aplicación web. Estas herramientas son las siguientes:
+
+- **WebStorm**: Entorno de desarrollo que permite trabajar con distintos lenguajes de programación.
+
+- **UxPressia**: Herramienta que facilita el diseño de User Personas, User Journey Maps, Impact Maps y Empathy maps, entre otros artefactos.
+
+- **Figma**: Utilizado para crear los Style Guidelines tanto del Web Application como del Landing Page.
+
+- **Github**: Herramienta de control de versiones que agiliza el trabajo en equipo entre varios integrantes. [Nuestro GitHub](https://github.com/si730-ciberpunk2099/Ciberpunk2099-Informe).
+
+- **Vertabelo**: Herramienta que nos permite diseñar bases de datos mediante la inserción de tablas y referencias de manera gráfica.
+
+
 #### 5.1.2. Source Code Management
+
+| Repositorios Github        |
+|---------------------------|
+| **Workflow**              |
+| Para el control de versiones, utilizamos "Git Flow" debido a que es uno de los enfoques más comunes cuando se trabaja en equipo. Ofrece facilidades para la creación de ramas y fusiones entre ellas. |
+
+| **Ramas principales de Desarrollo**   |
+|--------------------------|
+| - **Main**: En esta rama se encuentra una versión abreviada del historial de trabajo, donde se pueden ver las correcciones realizadas continuamente en el proyecto. |
+| - **Develop**: En esta rama se integran todas las funciones y se puede visualizar todo el historial del proyecto. |
+
+| **Ramas de Función**         |
+|-------------------------|
+| - **Feature**: Esta rama proporciona a las funciones su propia rama antes de enviarse al repositorio central. |
+
+| **Ramas de publicación**         |
+|-------------------------|
+| - **Release**: Esta rama se deriva de la rama develop y solo se inicia una vez que haya suficientes funciones para una publicación. Una vez que esta rama está en marcha, no se pueden crear más funciones, solo se pueden solucionar errores y documentar. |
+
+| **Ramas de Corrección**         |
+|-------------------------|
+| - **HotFix**: Esta rama se utiliza para corregir las distintas publicaciones realizadas. Está basada en la rama main y, una vez que se han realizado todas las correcciones necesarias, se fusiona con las ramas main y develop. |
+
+| **Control de versión**       |
+|--------------------------|
+| - Para la asignación de números de versión, seguimos el formato X.Y.Z, donde solo se permiten números positivos y no deben contener ceros a la izquierda. X es "Major," Y es "Minor" y Z es "Patch." Cada elemento se incrementa numéricamente. Por ejemplo: 1.0.0 -> 1.1.0 -> 1.2.0 -> 1.3.0 -> 1.4.0. |
+| - Una vez que se ha publicado una versión con número, su contenido no debe modificarse. Cualquier cambio debe publicarse como una nueva versión. El "Patch" solo debe incrementarse en caso de que las correcciones de errores sean compatibles con la versión anterior lanzada. Se considera una corrección de errores como un cambio interno que corrige un comportamiento incorrecto. |
+
+| **Enlace al repositorio** |
+|---------------------------|
+| [Aplicaciones-Web](https://github.com/si730-ciberpunk2099/Ciberpunk2099-Informe) |
+
+
+
 #### 5.1.3. Source Code Style Guide & Conventions
+
+En nuestro proyecto, hemos definido un conjunto de convenciones de estilo y guía de codificación que seguimos de manera rigurosa. Esto incluye:
+
+- **Nomenclatura de archivos y carpetas:** Utilizamos nombres descriptivos para nuestros archivos y carpetas, siguiendo la convención kebab-case para archivos y PascalCase para componentes Vue.
+- **Formato de código:** Mantenemos un código limpio y legible con una sangría de 2 espacios y respetamos las reglas de ESLint y Prettier.
+- **Comentarios:** Utilizamos comentarios descriptivos en nuestro código para explicar funcionalidades complejas o decisiones de diseño.
+- **Control de calidad del código:** Integramos ESLint y Prettier en nuestro flujo de trabajo para garantizar la consistencia y calidad del código.
+
 #### 5.1.4. Software Deployment Configuration
+
+Nuestro plan para la configuración de implementación de software incluye:
+
+- **Plataforma de implementación:** Planeamos utilizar Firebase Hosting para alojar nuestro sitio web en el futuro debido a su facilidad de uso y rendimiento.
+- **Control de versiones:** Hacemos un uso intensivo de GitHub para gestionar el control de versiones de nuestro código. Cada miembro del equipo trabaja en su propia rama y utilizamos solicitudes de extracción para revisar y fusionar cambios de manera segura.
+- **Entorno de desarrollo:** Usamos WebStorm y Visual Studio Code como nuestros IDE principales para el desarrollo web. Estas herramientas nos proporcionan una interfaz amigable y un conjunto robusto de características para trabajar en proyectos web.
+
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1 
 ##### 5.2.1.1. Sprint Planning 1
+
+En el primer sprint de nuestro proyecto, planificamos las siguientes tareas:
+
+- Configuración inicial del proyecto en Vue.js.
+- Creación de la página de inicio con información estática.
+- Configuración de la estructura de carpetas y rutas.
+- Integración de Firebase como posible plataforma de implementación futura.
+
 ##### 5.2.1.2. Sprint Backlog 1
+
+Nuestro backlog para el primer sprint incluye las tareas mencionadas anteriormente, con estimaciones de tiempo para cada tarea.
+
 ##### 5.2.1.3. Development Evidence for Sprint Review
+
+Durante el sprint, desarrollamos la página de inicio utilizando Vue.js. Aquí hay un fragmento de código representativo:
+
+```vue
+<template>
+  <div>
+    <h1>Bienvenido a nuestra página de inicio CIBERPUNK 2099</h1>
+    <p>Ojalá aprendamos más en esta semana2 de App Web</p>
+  </div>
+</template>
+```
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Realizamos pruebas unitarias en componentes clave para garantizar su funcionalidad. Hemos utilizado Jest y Vue Testing Library para esto. Los resultados de las pruebas se pueden encontrar en nuestro repositorio de GitHub.
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+
+Hemos ejecutado con éxito la aplicación en nuestro entorno de desarrollo local y hemos verificado que la página de inicio se muestra correctamente.
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Aunque en este sprint no hemos integrado Firebase, hemos documentado los pasos preliminares para su configuración futura. Esto incluye la creación de un proyecto en Firebase y la configuración de las credenciales necesarias.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Aunque todavía no hemos implementado públicamente la página, hemos realizado pruebas de implementación local con Firebase Hosting y hemos verificado que el proceso funciona según lo previsto.
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Durante el sprint, hemos mantenido una comunicación abierta en GitHub, donde hemos revisado y comentado las solicitudes de extracción de nuestros compañeros de equipo. También hemos celebrado reuniones semanales de sincronización para abordar cualquier problema y asegurarnos de que todos estén en la misma página en cuanto a los objetivos del sprint.
 
 ### Conclusiones
 #### Conclusiones y recomendaciones
 
+Como representante del grupo detrás de este proyecto, estamos encantados de compartir algunas conclusiones clave sobre nuestra iniciativa:
+
+1. **Impacto Positivo:** Nuestra plataforma ha logrado hacer una diferencia significativa en la vida de muchas personas interesadas en el mundo de la informática y la tecnología. Hemos ayudado a reducir la confusión y la incertidumbre al brindar información detallada y asesoramiento experto, permitiendo a los usuarios tomar decisiones más informadas y adecuadas a sus necesidades.
+
+2. **Empoderamiento del Usuario:** Una de las principales conclusiones es que hemos empoderado a los usuarios. Hemos proporcionado a los entusiastas de la tecnología y a aquellos que desean ensamblar sus propias computadoras las herramientas necesarias para hacerlo con confianza. Esto se refleja en la retroalimentación positiva que hemos recibido de nuestros usuarios.
+
+3. **Diversidad de Audiencia:** Hemos logrado llegar a una audiencia diversa que incluye a jugadores, ingenieros, estudiantes, y amantes de la tecnología en general. Nuestra capacidad para adaptarnos a diferentes tipos de usuarios ha sido esencial para satisfacer las necesidades variadas de nuestra comunidad.
+
+4. **Colaboración y Crecimiento Continuo:** Hemos aprendido que la colaboración es fundamental. Trabajar juntos como un equipo multidisciplinario, que combina conocimientos en hardware, software y experiencia en diferentes campos, ha sido la clave de nuestro éxito. Continuaremos aprendiendo y creciendo para mejorar aún más nuestra plataforma.
+
+5. **Compromiso con la Excelencia:** Mantenemos nuestro compromiso con la excelencia en todo lo que hacemos. La retroalimentación constante de nuestros usuarios nos ha impulsado a mejorar continuamente nuestros servicios y características. Seguiremos innovando y adaptándonos para ofrecer la mejor experiencia posible.
+
+6. **Visión a Largo Plazo:** Nuestra visión a largo plazo es seguir siendo una fuente confiable y valiosa de información y asesoramiento relacionados con la tecnología. Planeamos expandir nuestros servicios y recursos para seguir siendo líderes en este campo y continuar ayudando a más personas en su viaje tecnológico.
+
+En resumen, nuestro proyecto ha tenido un impacto significativo al empoderar a los usuarios, ha fomentado la colaboración y el crecimiento constante, y estamos comprometidos a seguir siendo una fuente confiable de conocimientos en el mundo de la tecnología y la informática. Esperamos con entusiasmo el futuro y las oportunidades que vendrán mientras continuamos sirviendo a nuestra comunidad.
+
 #### Bibliografía
+
+1. Color – Carbon Design System. (n.d.). Carbon Design System. Recuperado:
+   [https://carbondesignsystem.com/guidelines/color/implementation/](https://carbondesignsystem.com/guidelines/color/implementation/) [Consulta: 7 de septiembre de 2023]
+
+2. Typography – Carbon Design System. (n.d.). Carbon Design System. Recuperado:
+   [https://carbondesignsystem.com/guidelines/typography/type-sets/](https://carbondesignsystem.com/guidelines/typography/type-sets/) [Consulta: 8 de septiembre de 2023]
+
+3. Zhulidin, A. (11 de diciembre de 2021). Guide for designing better mobile apps typography - UX Collective. Medium. Recuperado:
+   [https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f](https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f) [Consulta: 7 de septiembre de 2023]
+
+4. Trending Color Palettes - Coolors. (n.d.). Coolors.Co. Recuperado:
+   [https://coolors.co/palettes/trending](https://coolors.co/palettes/trending) [Consulta: 9 de septiembre de 2023]
+
+5. Color Palettes for Designers and Artists - Color Hunt. (n.d.). Color Hunt. Recuperado:
+   [https://colorhunt.co/](https://colorhunt.co/) [Consulta: 7 de septiembre de 2023]
+
+6. DaFont - Descargar fuentes. (n.d.). DaFont. Recuperado:
+   [https://www.dafont.com/es/](https://www.dafont.com/es/) [Consulta: 9 de septiembre de 2023]
+
+7. Khononov. (2019). What is domain-driven design? (Capítulo 5, 6 y 7) (First edition.). O’Reilly Media.
+
+8. Vlad Khononov. (2021). Learning Domain-Driven Design (Capítulo 5 y 8). O’Reilly Media, Inc.
+
+9. TypeScript 4 Design Patterns and Best Practices (Capítulo 3, 4 y 5). (2021). Packt Publishing.
+
+10. Tú primera aplicación - El pequeño libro de ASP.NET Core. ASP.NET Core master. Recuperado
+    el 9 de setiembre de 2023, de [https://aspnetcoremaster.com/little-aspnetcore-book/](https://aspnetcoremaster.com/little-aspnetcore-book/)
+
+11. Spring Framework Guru. (21 de mayo de 2019). Gang of Four Design Patterns. Recuperado el 9 de setiembre de 2023, de
+    [https://springframework.guru/gang-of-four-design-patterns/](https://springframework.guru/gang-of-four-design-patterns/)
+
+12. Saez, D. P. (7 de abril de 2020). Domain Driven Design o Dominio, Dominio y Dominio. Jeronimo Palacios & Associates. Recuperado el 9 de setiembre de 2023, de
+    [https://jeronimopalacios.com/software/domain-driven-development/](https://jeronimopalacios.com/software/domain-driven-development/) [Consulta: 9 de septiembre de 2023]
 
 #### Anexos
