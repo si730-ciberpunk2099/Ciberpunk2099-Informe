@@ -247,6 +247,14 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u201918216_upc_edu_pe/EeEjQi0s
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u201918216_upc_edu_pe/EayFuPfSLfdIr1b7HZPlJhYBUovuZ_I5sq6q9L7Ra_u61Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=dyZrA5 
 
+**Entrevista 5:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014944_upc_edu_pe/Ef2mG-_hAexNtMhZPRhYUPYB4iZTk4gR-ApvyOBXbGXr4A?e=vXQh87
+
+**Entrevista 6:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824343_upc_edu_pe/ESancNgd5lBMinksAosCiQ4B4oEVqe6u5MqDOaXdPU0N-A?e=cNZgz7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
 #### 2.2.3. Análisis de entrevistas
 
 ##### Entrevista 1:
@@ -289,12 +297,36 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u201918216_upc_edu_pe/EayFuPfS
 
     Conocimientos del tema: Medio
 
+##### Entrevista 5:
+
+    Nombre: Sebastian David Aguirre Solano
+
+    Edad: 25 años
+
+    Estudios: Ingenieria de sistemas
+
+    Conocimientos del tema: Experto
+
+##### Entrevista 6:
+
+    Nombre: Emiliano Fernandini De las Casas
+
+    Edad: 32 años
+
+    Estudios: Ingenieria de sistemas
+
+    Conocimientos del tema: Experto
+
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
 
-1. Usuario
+**User Persona del Usuario Entrevistado**
 
 ![UserPersona Novato](/Fotos/Tablas/UserPersonaNovato.png)
+
+**User Persona del Experto Entrevistado**
+
+![UserPersona Novato](/Fotos/Tablas/UserPersonaExperto.png)
 
 #### 2.3.2. User Task Matrix
 
@@ -316,93 +348,136 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u201918216_upc_edu_pe/EayFuPfS
 Explicacion: Esta tabla describe todo lo que hará el usuario en la app. Tiene un catálogo de componentes de pc, y su respectiva simulacion de ensamblaje y al fiunalizar puede dar una mejor respuesta al momento de realizar compra en otras paginas y opcionalmente escribir
 una reseña sobre el servicio.
 
-1. Usuario
-![UJP Usuario](/Fotos/UJP%20Usuario.png)
+#### 2.3.3. User Journey Mapping
+
+**Usuario**
+
+| Etapa  | Acciones del Usuario  | Interacciones con la Página Web | Emociones del Usuario | Objetivo |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Inicio**  | 1. Accede a la página web. | - Encuentra una interfaz amigable y atractiva. | - Curiosidad y expectativas. | Comprender cómo ensamblar una computadora y qué componentes comprar. |
+| **Exploración**  | 2. Navega por la página web. | - Visualiza opciones de simulación de ensamblaje. - Ve secciones para diferentes tipos de usuarios (gamer, ingeniero, etc.). - Explora información sobre rendimiento en juegos y programas. - Compara precios de otros sitios. | - Interés y concentración. | Aprender sobre la compatibilidad de componentes y costos. |
+| **Simulación de Ensamblaje** | 3. Utiliza la simulación. | - Ingresa componentes deseados. - Recibe feedback sobre la compatibilidad. | - Satisfacción si los componentes son compatibles. - Frustración si hay incompatibilidades. | Verificar la viabilidad de su elección de componentes. |
+| **Análisis de Rendimiento** | 4. Explora rendimiento. | - Comprueba FPS en juegos y rendimiento en programas. | - Emoción si los resultados son positivos. - Preocupación si los resultados son insatisfactorios. | Entender el rendimiento de la futura computadora. |
+| **Consumo de Energía** | 5. Examina el consumo de energía. | - Visualiza la estimación de consumo en watts. - Lee recomendaciones. | - Conciencia sobre el consumo de energía. | Considerar la eficiencia energética. |
+| **Comparación de Precios** | 6. Compara precios de otros sitios. | - Explora las ofertas de otros vendedores. | - Posible sorpresa por las diferencias de precio. | Tomar una decisión informada sobre dónde comprar. |
+| **Registro** | 7. Se registra (opcional). | - Completa el registro para acceder a asesoría. | - Satisfacción por acceder a asesoramiento. | Obtener asesoramiento personalizado si es necesario. |
+| **Conclusión** | 8. Toma decisiones de compra. | - Decide comprar los componentes. | - Satisfacción si se siente seguro de su elección. - Ansiedad si todavía tiene dudas. | Realizar una compra informada. |
+
+**Asesor Experto**
+
+| Etapa  | Acciones del Asesor  | Interacciones con la Página Web | Emociones del Asesor | Objetivo |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Inicio**  | 1. Accede a la página web como asesor. | - Encuentra una interfaz profesional y fácil de usar. | - Preparado para brindar asesoramiento. | Proporcionar ayuda experta en ensamblaje de computadoras. |
+| **Exploración**  | 2. Navega por la página web. | - Observa la sección de simulación de ensamblaje. - Examina las categorías de usuarios. - Revisa información sobre rendimiento. - Explora datos sobre consumo de energía y recomendaciones. - Accede a la función de comparación de precios. | - Interés en encontrar información relevante. | Entender las herramientas disponibles para ayudar a los usuarios. |
+| **Simulación de Ensamblaje** | 3. Utiliza la simulación. | - Ingresa componentes proporcionados por el usuario. - Evalúa la compatibilidad y proporciona retroalimentación. | - Satisfacción si la simulación es precisa. - Compromiso en ayudar al usuario. | Ayudar al usuario a elegir componentes compatibles. |
+| **Análisis de Rendimiento** | 4. Analiza el rendimiento. | - Revisa resultados de FPS en juegos y rendimiento en programas. | - Satisfacción si los resultados son positivos. - Responsabilidad si hay desafíos de rendimiento. | Proporcionar información sobre el rendimiento esperado. |
+| **Consumo de Energía** | 5. Evalúa el consumo de energía. | - Verifica la estimación de consumo en watts. - Ofrece recomendaciones para optimizar la eficiencia energética. | - Preocupación por el consumo de energía. - Utilidad al brindar consejos. | Ayudar al usuario a tomar decisiones conscientes sobre el consumo de energía. |
+| **Comparación de Precios** | 6. Compara precios de otros sitios. | - Explora opciones de compra y ofrece orientación sobre las ofertas disponibles. | - Satisfacción si se encuentra una buena oferta. - Determinación en ayudar al usuario a obtener el mejor precio. | Ayudar al usuario a tomar decisiones de compra inteligentes. |
+| **Asesoramiento Personalizado** | 7. Proporciona asesoramiento personalizado (si el usuario se registra). | - Responde a las consultas y preocupaciones del usuario. - Ofrece recomendaciones específicas basadas en las necesidades del usuario. | - Satisfacción por brindar ayuda experta. - Disposición para resolver problemas complejos. | Ofrecer asesoramiento personalizado y resolver inquietudes. |
+| **Conclusión** | 8. Ayuda al usuario a tomar decisiones informadas. | - Asegura que el usuario se sienta seguro en su elección de componentes y proveedor. | - Éxito si el usuario está satisfecho. - Responsabilidad si surgen problemas. | Asegurar que el usuario esté listo para realizar una compra informada. |
 
 #### 2.3.4. Empathy Mapping
+
 1. Usuario
+
 ![EM Usuario](/Fotos/EM%20Usuario.png)
 
 #### 2.3.5. As-is Scenario Mapping
 
 1. Usuario
+
 ![Asis Usuario](/Fotos/AsIs%20Usuario.png)
 
 ## Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping
+
 1. Usuario
+
 ![ToBe Usuario](/Fotos/ToBe%20Usuario.png)
 
 ### 3.2. User Stories
-1. - **EP001**: Como usuario quiero registrarme en la página para poder buscar información de componentes de pc
-    - **US001**: Registro de usuario
-    - **Descripcion**: Como usuario quiero registrarme en la página para tener una cuenta
-    - **Criterios de aceptacion**: 
-        - Escenario: Registro nuevo usuario
-        - Dado que el nuevo usuario no tiene cuenta
-    Y se encuentra en la pestaña Registrarse, presiona el botón "Registrarse
-    con"
-    Cuando completa los campos requeridos (nombre, apellido, número de
-    celular, correo y contraseña)
-    Y presiona el botón "Registrarse"
-    Entonces se agrega al usuario a la base de datos con su correo y
-    contraseña
-    Y se muestra el mensaje "Usted se registró correctamente". Se enviará un
-    mensaje a su número para verificar sus datos
-2. - **EP002**: Como usuario quiero que la página me recomiende componentes según mi necesidad
-    - **US002**: Recomendación de componentes
-    - **Descripcion**: Como usuario quiero que la página me recomiende componentes según mi necesidad
-    - **Criterios de aceptacion**: 
-        - Escenario: Recomendar componentes
-        - Dado que la base de datos tiene registrado el interés el usuario Cuando se pida a la base de datos recomendar componentes Entonces se mostrará una serie de recomendaciones
-3. - **EP003**: Como usuario quiero ofertas en mis compras
-    - **US003**: Asignación de ofertas
-    - **Descripcion**: Como usuario quiero ofertas en mis compras
-    - **Criterios de aceptacion**: 
-        - Escenario: Ofrecer descuentos
-        - Dado que el usuario se inscribió a premium Cuando el usuario busque ofertas Entonces la base de datos le mostrará ofertas en los centros aliados a los nuestros
-4. - **EP004**: Como usuario quiero que me muestren modelos de los productos que necesito
-    - **US004**: Modelos de productos
-    - **Descripcion**: Como usuario quiero que me muestren modelos de los productos que necesito
-    - **Criterios de aceptacion**: 
-        - Escenario: Recomendar componentes
-        - Dado que el usuario se inscribió a premium Cuando el usuario busque los modelos de los componentes Entonces la base de datos le mostrará los modelos
-5. - **EP005**: Como usuario quiero que coticen los componentes elegidos
-    - **US005**: Cotización de componentes
-    - **Descripcion**: Como usuario quiero que coticen los componentes elegidos
-    - **Criterios de aceptacion**: 
-        - Escenario:  Precio de los Componentes
-        - Dado que el usuario está en la base de datos Cuando el usuario quiera ver el precio total o parcial de un componente Entonces las Base de datos le mostrará los precios    
-6. - **EP006**: Como usuario quiero hacer comentarios en los componentes comprados
-    - **US006**: Dejar opinión acerca del componente
-    - **Descripcion**: Como usuario quiero hacer comentarios en los componentes comprados
-    - **Criterios de aceptacion**: 
-        - Escenario:   Comentarios
-        - Dado que el usuario usó nuestros servicios Cuando el usuario desee hacer comentarios a sus compras Entonces se abrirá una sección comentarios de acuerdo con el componente seleccionado
-7.  - **EP007**: Como usuario quiero calificar la asistencia recibida
-    - **US007**: Dejar opinión de la asistencia de la página
-    - **Descripcion**: Como usuario quiero calificar la asistencia recibida
-    - **Criterios de aceptacion**: 
-        - Escenario:   Calificación
-        - Dado que el usuario usó nuestros servicios de asistencia Cuando el usuario busque calificar nuestros servicios Entonces se abrirá una pestaña para hacer comentarios a nuestros servicios
-8. - **EP008**: Como usuario quiero conocer tiendas cercanas a mi
-    - **US008**: Mostrar tiendas cercanas al usuario
-    - **Descripcion**: Como usuario quiero conocer tiendas cercanas a mi
-    - **Criterios de aceptacion**: 
-        - Escenario:    Tiendas
-        - Dado que la base de datos tiene la ubicación del usuario Cuando el usuario busque tiendas cercanas a él Entonces se abrirá un mapa con tiendas cercanas a él, con preferencia a las tiendas aliadas
-9. - **EP009**: Como usuario quiero realizar pedidos en línea
-    - **US009**: Compras en línea
-    - **Descripcion**: Como usuario quiero realizar pedidos en línea
-    - **Criterios de aceptacion**: 
-        - Escenario:    Tiendas
-        - Dado que tenemos alianzas con las tiendas Cuando el usuario quiera comprar en línea Entonces nosotros referimos la compra a la tienda que seleccione
-10. - **EP010**: Como usuario quiero obtener cupones
-    - **US010**: Asignación de cupones  
-    - **Descripcion**: Como usuario quiero obtener cupones
-    - **Criterios de aceptacion**: 
-        - Escenario:   Ofrecer descuentos
-        - Dado que tenemos alianzas con las tiendas Cuando el usuario se inscriba a premium Entonces nosotros le daremos una serie de cupones de descuento en diversos tipos de componentes
+
+- **EP001**:
+  - **US001**: Registro de usuario
+  - **Descripción**: Como usuario quiero registrarme en la página para tener una cuenta.
+  - **Criterios de aceptación**:
+    - **Escenario: Registro nuevo usuario**
+      - Dado que el nuevo usuario no tiene cuenta Y se encuentra en la pestaña Registrarse, presiona el botón "Registrarse con".
+      - Cuando completa los campos requeridos (nombre, apellido, número de celular, correo y contraseña) Y presiona el botón "Registrarse".
+      - Entonces se agrega al usuario a la base de datos con su correo y contraseña Y se muestra el mensaje "Usted se registró correctamente". Se enviará un mensaje a su número para verificar sus datos.
+
+- **EP002**:
+  - **US002**: Iniciar sesión de usuario
+  - **Descripción**: Como usuario registrado quiero iniciar sesión en la página para acceder a mi cuenta.
+  - **Criterios de aceptación**:
+    - **Escenario: Inicio de sesión exitoso**
+      - Dado que el usuario está en la página de inicio de sesión Y completa los campos de correo y contraseña Y presiona el botón "Iniciar sesión".
+      - Entonces el usuario accede a su cuenta y se redirige a la página principal.
+
+- **EP003**:
+  - **US003**: Simulación de ensamblaje
+  - **Descripción**: Como usuario quiero explorar la sección de simulación de ensamblaje para verificar la compatibilidad de componentes.
+  - **Criterios de aceptación**:
+    - **Escenario: Uso de la simulación de ensamblaje**
+      - Dado que el usuario está en la sección de simulación de ensamblaje Y selecciona componentes para ensamblar una PC.
+      - Entonces la simulación verifica la compatibilidad de los componentes y muestra los resultados.
+
+- **EP004**:
+  - **US004**: Rendimiento en juegos
+  - **Descripción**: Como usuario, quiero ver el rendimiento estimado en FPS de diferentes juegos en función de los componentes que he seleccionado.
+  - **Criterios de aceptación**:
+    - **Escenario: Ver el rendimiento en juegos**
+      - Dado que el usuario ha seleccionado componentes y está en la sección de rendimiento en juegos.
+      - Entonces la página muestra el rendimiento estimado en FPS de varios juegos populares basados en la configuración de componentes seleccionada.
+
+- **EP005**:
+  - **US005**: Consumo de energía estimado
+  - **Descripción**: Como usuario, deseo conocer el consumo de energía estimado en watts de la configuración de componentes que he seleccionado.
+  - **Criterios de aceptación**:
+    - **Escenario: Ver el consumo de energía estimado**
+      - Dado que el usuario ha seleccionado componentes y está en la sección de consumo de energía.
+      - Entonces la página muestra el consumo de energía estimado de la configuración de componentes seleccionada.
+
+- **EP006**:
+  - **US006**: Comparación de precios
+  - **Descripción**: Como usuario, quiero comparar los precios de los componentes en diferentes tiendas en línea.
+  - **Criterios de aceptación**:
+    - **Escenario: Comparación de precios**
+      - Dado que el usuario ha seleccionado componentes y está en la sección de comparación de precios.
+      - Entonces la página muestra una lista de precios de diferentes tiendas en línea para los componentes seleccionados.
+
+- **EP007**:
+  - **US007**: Acceso a asesores calificados
+  - **Descripción**: Como usuario registrado, deseo tener acceso a asesores calificados para obtener orientación adicional.
+  - **Criterios de aceptación**:
+    - **Escenario: Acceso a asesores calificados**
+      - Dado que el usuario registrado ha iniciado sesión en su cuenta.
+      - Entonces el usuario puede acceder a asesores calificados a través de la plataforma para obtener ayuda y orientación personalizada.
+
+- **EP008**:
+  - **US008**: Recomendaciones personalizadas
+  - **Descripción**: Como usuario, quiero recibir recomendaciones personalizadas basadas en mi tipo de uso (gamer, ingeniero, etc.).
+  - **Criterios de aceptación**:
+    - **Escenario: Obtener recomendaciones personalizadas**
+      - Dado que el usuario ha seleccionado su tipo de uso (por ejemplo, gamer) en su perfil.
+      - Entonces la página muestra recomendaciones de componentes y configuraciones específicas para ese tipo de uso.
+
+- **EP009**:
+  - **US009**: Verificación de número de teléfono
+  - **Descripción**: Como usuario, quiero recibir un mensaje de verificación en mi número de teléfono al registrarme.
+  - **Criterios de aceptación**:
+    - **Escenario: Verificación de número de teléfono**
+      - Dado que el usuario ha completado el registro con éxito.
+      - Entonces el sistema envía un mensaje de verificación al número de teléfono proporcionado y muestra un mensaje de confirmación.
+
+- **EP010**:
+  - **US010**: Notificaciones por correo electrónico
+  - **Descripción**: Como usuario, quiero recibir notificaciones por correo electrónico sobre actualizaciones de hardware y ofertas especiales.
+  - **Criterios de aceptación**:
+    - **Escenario: Recepción de notificaciones por correo electrónico**
+      - Dado que el usuario ha optado por recibir notificaciones por correo electrónico en su configuración de cuenta.
+      - Entonces el sistema envía correos electrónicos periódicos con información actualizada y ofertas especiales relacionadas con hardware de PC.
+
 ### 3.3. Impact Mapping
 ![Impact Mapping](/Fotos/Impact%20Mapping.png)
 ### 3.4. Product Backlog
@@ -472,21 +547,29 @@ Claro, aquí tienes la copia de las etiquetas meta:
 - `<meta name="author" content="Grupo 2">`
 - `<meta name="audience" content="all">`
 - `<meta name="category" content="components, PC">`
+
 #### 4.2.4. Searching Systems
 Con el objetivo de simplificar la ubicación de información en nuestra aplicación, hemos implementado un sistema de búsqueda que 
 incluye opciones para buscar por nombre y aplicar filtros, lo que permite a los usuarios refinar sus búsquedas según sus necesidades 
 específicas. Después de realizar una búsqueda, los resultados se mostrarán en una lista ordenada en función de su relevancia y podrán 
 ser visualizados en un formato de lista o en una vista de galería que permitirá ver las imágenes de los productos. Además, se mostrarán 
 los detalles de cada producto, incluyendo su nombre, marca, precio, descripción y las calificaciones proporcionadas por los usuarios.
+
 #### 4.2.5. Navigation Systems
-![Product Design](/Fotos/Navigation%20systems.JPG)
+![Product Design](/Fotos/Ilustraciones/Navegation.png)
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
-![Product Design](/Fotos/LandingPage%20Wireframe1.JPG)
-![Product Design](/Fotos/LandingPage%20Wireframe2.JPG)
+
+![Product Design](/Fotos/Ilustraciones/home.png)
+
+![Product Design](/Fotos/Ilustraciones/Simulador1.png)
+
 #### 4.3.2. Landing Page Mock-up
-![Product Design](/Fotos/LandingPage%20MockUps1.JPG)
-![Product Design](/Fotos/LandingPage%20MockUps2.JPG)
+
+![Product Design](/Fotos/Ilustraciones/Simulador2.png)
+
+![Product Design](/Fotos/Ilustraciones/AbautSus.png)
+
 ### 4.4. Web Applications UX/UI Design
 
 
