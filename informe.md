@@ -334,12 +334,12 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824343_upc_edu_pe/ESancNgd
 
 | Usuario                               | Frecuencia                         | Importancia |
 |---------------------------------------|------------------------------------|-------------|
-| Registrarse                                   | Una vez                    | Alta        |
-| Iniciar sesión                                | Una vez                    | Alta        |
+| Registrarse                                   | Una vez                    | Media       |
+| Iniciar sesión                                | Una vez                    | Media       |
 | Dar a conocer el futuro uso para la PC        | Siempre                    | Alta        |
 | Ver los componentes necesarios                | Siempre                    | Alta        |
 | Acceder a la simulacion                       | Siempre                    | Alta        |
-| Ver variedad de informacion al terminar       | Siempre                    | Media       |
+| Ver variedad de informacion al terminar       | Siempre                    | Alta        |
 | Recibir recomendaciones y consejos            | Siempre                    | Alta        |
 | Las tiendas por medio de la pagina            | Siempre                    | Alta        |
 | Proporcionar comentarios sobre el servicio    | A veces                    | Media       |
