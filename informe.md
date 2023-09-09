@@ -371,12 +371,45 @@ pago sobre todas las ventas y por último escribir una reseña sobre el servicio
 #### 4.4.2. Web Applications Wireflow Diagrams
 #### 4.4.2. Web Applications Mock-ups
 #### 4.4.3. Web Applications User Flow Diagrams
+1. User Persona
+
+    1.2 User Goal: Iniciar Sesión
+
+    Descripción de User Goal: El usuario inexperto tendrá por objetivo realizar un inicio de sesión exitoso, rellenando todos los campos necesarios para poder dirigirse a la pantalla principal de su perfil sin ningún problema.
+
+    **-Happy Path**: Primero, el usuario ingresa al menú de registro. Luego selecciona la opción de que la cuenta a crear es una cuenta. Finalmente, completa adecuadamente los campos solicitados, estos son: Nombre completo, DNI u otro documento de identidad, un correo electrónico disponible y una contraseña creada por el usuario.
+
+    ![User Goal](/Fotos/UserGoal1.png)
+
+    Luego, el usuario le da click al botón de continuar para crear su cuenta satisfactoriamente y proceder a la página de inicio de sesión.
+
+    ![User Goal](/Fotos/UserGoal2.png)
+
+    Ya en esta página, deberá señalar que la cuenta que iniciará sesión es de tipo inexperto. Seguidamente, deberá rellenar el correo electrónico y la contraseña, mismos campos que fueron utilizados anteriormente para registrar su cuenta.
+    Finalmente, deberá darle click a continuar y la aplicación lo redireccionará a la
+    página principal de la aplicación.
+
+    **-Unhappy Path**:El usuario inexperto registra la cuenta pero el correo electrónico es uno que ya se encuentra en uso en la aplicación.
+
+    ![User Goal](/Fotos/UserGoal3.png)
+
+    Entonces cuando le da click al botón de continuar, no se podrá crear la cuenta y saldrá un mensaje de error señalando “Ya existe una cuenta con ese correo electrónico”. Por ende, no se podrá iniciar sesión tampoco.
+
+    ![User Goal](/Fotos/UserGoal4.png)
+    
 ### 4.5. Web Applications Prototyping
+Los principales criterios para las decisiones de interacción estuvieron basadas en las decisiones tomadas acerca de apegarnos a ciertos principios o no. Decidimos elegir
+la jerarquía visual para gestionar algunos principios de organización y consigo la navegación que queríamos plasmar en la aplicación web. La navegación se rige en un modelo de cascada, es decir la navegación empieza de arriba a abajo. Además para la navegación e interacción guiamos al usuario mediante su modelo mental. Esto
+quiere decir que en base a sus experiencias pasadas en una página o páginas
+similares es por lo que nos regimos a la hora de establecer el patrón de navegación
+de nuestra aplicación web.
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
+![Context Diagram](/Fotos/C4ContexDiagram.png)
 #### 4.6.2. Software Architecture Container Diagrams
+![Container Diagram](/Fotos/C4ConteinerDiagram.png)
 #### 4.6.3. Software Architecture Components Diagrams
-
+![Components Diagram](/Fotos/C4ComponentsDiagram.png)
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 ![Class Diagram](/Fotos/Diagram.jpg)
