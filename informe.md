@@ -595,7 +595,7 @@ Wireframe de Menú de Registro para Usuario Inexperto
 En este Wireframe, se presenta el primer menú que observará por pantalla un usuario que ingrese a nuestra aplicación web, 
 en este caso, el usuario inexperto. Este wireframe corresponde al menú de registro de un nuevo usuario inexperto en busca de soporte técnico.
 
-![Wireframe](Fotos/wf%20f1.png)
+![Wireframe](Fotos/wf%20f1p.png)
 
 En esta propuesta se evidencia una buena arquitectura de información, no sobrecargando al usuario y brindándole la información necesaria para un inicio de sesión exitoso en busca de asesoramiento técnico. También podemos ver elementos de diseño que siguen ciertos patrones, como por ejemplo los input que requieren que se ingrese texto, así como un dropdown menu.
 
@@ -603,7 +603,7 @@ Wireframe de Menú de Registro para Usuario Experto en Soporte Técnico
 
 En este Wireframe, se presenta el primer menú que observará por pantalla un usuario que ingrese a nuestra aplicación web, en este caso, el usuario experto en soporte técnico. Vemos que se aumenta un campo de input, así como observamos que el segundo botón ahora se encuentra encendido. Este wireframe corresponde al menú de registro de un nuevo usuario experto en soporte técnico.
 
-![Wireframe](Fotos/wff2.png)
+![Wireframe](Fotos/wff2p.png)
 
 Esta propuesta es casi idéntica a la anterior. Se puede observar los mismos elementos de diseño. Además, si bien se agregó un nuevo campo de input, no se sobrecarga de información al usuario, haciendo uso de una buena arquitectura de información. Finalmente, se observan los mismos patrones o elementos de diseño.
 
@@ -611,7 +611,7 @@ Wireframe de Menú de Inicio de Sesión Usuario Inexperto
 
 En este Wireframe, se puede observar que se selecciona el primer botón debido a que de esta manera estamos indicando que queremos iniciar sesión en una cuenta de usuario inexperto en busca de soporte técnico. Visualizamos que los campos de input se han reducido debido a que ya tenemos una cuenta creada y estamos listos para iniciar sesión en busca de ayuda técnica.
 
-![Wireframe](Fotos/wff3.png)
+![Wireframe](Fotos/wff3p.png)
 
 En esta propuesta de Wireframe observamos menos elementos de diseño, sin embargo, solo se le muestra la información necesaria al usuario. Podemos observar que el modelo mental correspondiente a la arquitectura de información respeta los patrones y hace más intuitivo el poder iniciar sesión por parte de un usuario inexperto en busca de asistencia técnica.
 
@@ -619,7 +619,7 @@ Wireframe de Menú de Inicio de Sesión para Usuario Experto en Soporte Técnico
 
 En este Wireframe, se puede observar ahora que la segunda casilla es la que está encendida, significando que ahora el tipo de usuario a iniciar sesión hace referencia a un usuario experto en soporte técnico. Observamos que son casi idénticas las interfaces de inicio de sesión de un usuario inexperto y de un usuario experto en soporte técnico en busca de brindar su experiencia técnica.
 
-![Wireframe](Fotos/wff4.png)
+![Wireframe](Fotos/wff4p.png)
 
 Observamos que se hacen uso de los mismos patrones de diseño: Input de texto, botones de radio, botones para presionar. Se maneja un lenguaje breve y preciso para generar accesibilidad a la hora de iniciar sesión. Seguimos observando que solo los elementos necesarios están por pantalla.
 
@@ -627,7 +627,7 @@ Wireframe de Página Principal de Usuario Inexperto
 
 En este Wireframe, se presenta la pantalla principal de un usuario inexperto en busca de soporte técnico. Se pueden observar tres secciones predominantes: Sección de Tiendas, sesión informativa y sección de comunicación con asesores expertos en busca de ayuda técnica.
 
-![Wireframe](Fotos/wff5.png)
+![Wireframe](Fotos/wff5p.png)
 
 En esta propuesta de Wireframe se observa que no se bombardea de información innecesaria al usuario, haciendo compatible una arquitectura de información en donde se permita encontrar los elementos de interés de manera rápida y sencilla relacionados con el soporte técnico.
 
@@ -635,7 +635,7 @@ Wireframe de Tiendas Asociadas por parte de Usuario Inexperto
 
 En este Wireframe, se visualizan las principales tiendas afiliadas o asociadas a nuestra aplicación que ofrecen servicios de soporte técnico. El usuario podrá navegar entre las distintas tiendas relacionadas al ámbito del soporte técnico e ingresar a interactuar más a fondo con la tienda que más le favorezca en sus decisiones de búsqueda de asistencia técnica.
 
-![Wireframe](Fotos/wff6.png)
+![Wireframe](Fotos/wff6p.png)
 
 En este observamos distintos elementos de diseño, como por ejemplo la barra de búsqueda. Además, podemos ver patrones en la muestra de las tiendas, todas manteniendo un mismo formato y apareciendo de manera principal, para que el usuario se guíe de manera más fácil cuando se traslada por la información de la página relacionada con el soporte técnico.
 
@@ -643,7 +643,7 @@ Wireframe de Tienda Asociada específica por parte de Usuario Inexperto
 
 En este Wireframe, podemos visualizar la interfaz de una página destinada a una tienda específica de soporte técnico. Se pueden observar filtros por la izquierda y resultados de servicios y productos de soporte técnico en la parte derecha de la página.
 
-![Wireframe](Fotos/wff7.png)
+![Wireframe](Fotos/wff7p.png)
 
 En esta propuesta se evidencia que la sobrecarga del usuario es manejada por el uso de filtros ubicados en la parte izquierda de la página, los cuales hacen más fáciles los desplazamientos de navegación y evitan la sobrecarga de información al usuario en busca de servicios técnicos.
 
@@ -651,7 +651,7 @@ Wireframe de Producto Específico por parte de Usuario Inexperto
 
 En este Wireframe, se puede observar la página referente a un servicio o producto de soporte técnico de una tienda específica. Se pueden observar diferentes elementos a lo largo del Wireframe relacionados con el soporte técnico.
 
-![Wireframe](Fotos/wff8.png)
+![Wireframe](Fotos/wff8p.png)
 
 En esta propuesta de Wireframe observamos un principio para una buena arquitectura de información: La Jerarquía Visual. Podemos observar los Gestalt Principles, los cuales son un conjunto de patrones que agrupan y sitúan elementos similares en diversos sitios correspondientes de la página. Por ejemplo, podemos ver varias imágenes pequeñas debajo de la imagen grande del servicio técnico. Esto hace referencia a una galería de fotos e informa al usuario de que puede ver varias imágenes relacionadas con el servicio de soporte técnico desde diferentes perspectivas.
 
@@ -659,7 +659,7 @@ Wireframe de Sección Informativa o Biblioteca por parte de Usuario Inexperto
 
 En este Wireframe, se observa la sección biblioteca o la sección informativa en la cual el usuario inexperto podrá nutrirse de información acerca de los componentes de software o hardware necesarios para su búsqueda de asistencia técnica. Podrá encontrar información en formatos escritos, de videos, visuales, entre otros relacionados con el soporte técnico.
 
-![Wireframe](Fotos/wff9.png)
+![Wireframe](Fotos/wff9p.png)
 
 En esta propuesta se observa la presencia de filtros, lo cual contribuye a un buen principio de la arquitectura de la información en busca de información técnica. Esto reduce la cantidad de información que tendrá que procesar el usuario.
 
@@ -668,7 +668,7 @@ Wireframe de Vídeo Informativo por parte de Usuario Inexperto
 En este Wireframe, el usuario entra a un video informativo específico para adquirir conocimientos acerca de las nuevas tecnologías relacionadas con el soporte técnico. En este Wireframe se puede observar el video, su descripción y transcripción, así como otros videos relacionados que le pueden interesar.
 
 
-![Wireframe](Fotos/wff10.png)
+![Wireframe](Fotos/wff10p.png)
 
 En esta propuesta contribuye a los Gestalt Principles, principios para una buena arquitectura de información. Así como también obedece al diseño inclusivo, adjuntando las transcripciones del video al lado de este, para las personas sordas o personas sordomudas que buscan información relacionada con el soporte técnico.
 
@@ -676,7 +676,7 @@ Wireframe de Comunicación con asesor experto por parte de Usuario Inexperto
 
 En este Wireframe, se puede observar la página que hará uso un usuario inexperto para comunicarse con un asesor experto en soporte técnico. Este asesor se comunicará vía mensaje de texto para poder contestarle sus preguntas y absolver las dudas acerca de los componentes de hardware y software relacionadas con el soporte técnico.
 
-![Wireframe](Fotos/wff11.png)
+![Wireframe](Fotos/wff11p.png)
 
 Observamos que presentamos jerarquía visual, al presentar elementos con diseños similares y patrones idénticos en el mismo lugar de la página. Presenciamos la información justa y necesaria para la comunicación entre usuario y asesor, siempre evitando sobrecargar al usuario en busca de asesoramiento técnico.
 
@@ -684,7 +684,7 @@ Wireframe de Productos de Tienda de Usuario Experto en Soporte Técnico
 
 En este Wireframe, se puede observar la página referente la tienda de un usuario experto en soporte técnico. Se logra visualizar un apartado con cuatro imágenes que en este caso corresponden a los servicios de soporte técnico presentes en el catálogo de la tienda.
 
-![Wireframe](Fotos/wff12.png)
+![Wireframe](Fotos/wff12p.png)
 
 En esta propuesta se presencia una jerarquía visual, acomodando estratégicamente los elementos con patrones similares en un lugar de la página. Lo que se muestra primero son los servicios de soporte técnico de la tienda. Nuevamente, se muestran los elementos necesarios que tendrá que procesar el usuario en busca de servicios técnicos.
 
@@ -692,7 +692,7 @@ Wireframe de Edición o Actualización de Servicios de Tienda de Usuario Experto
 
 En este Wireframe, se puede observar que unos botones aparecen debajo de la descripción de cada servicio de soporte técnico. Si el usuario experto en soporte técnico da click a ese botón, quiere decir que desea actualizar dicho servicio del catálogo de la tienda.
 
-![Wireframe](Fotos/wff13.png)
+![Wireframe](Fotos/wff13p.png)
 
 En esta propuesta de Wireframe, si bien se incrementaron los elementos del diseño, se sigue manteniendo la jerarquía visual y los gestalt principles. Es por esta razón que la información es más fácil de encontrar en busca de servicios técnicos.
 
@@ -700,7 +700,7 @@ Wireframe de Edición de Servicio Específico de Tienda de Usuario Experto en So
 
 En este Wireframe, podemos observar la página que hace referencia a la edición de un servicio específico de la tienda. Se puede observar varios campos que existen para ser rellenados con la información actualizada sobre un servicio nuevo o existente relacionado con el soporte técnico.
 
-![Wireframe](Fotos/wff14.png)
+![Wireframe](Fotos/wff14p.png)
 
 En esta propuesta de Wireframe, observamos un incremento de los elementos de diseño principales de la página. Sin embargo, todo de manera concisa y breve, no afectando la carga de información presente en la página en busca de servicios técnicos.
 
@@ -708,7 +708,7 @@ Wireframe de Página de Historial de Asesoramiento por parte de Usuario Experto 
 
 En este Wireframe, se puede visualizar el historial de asesoramientos brindados por el usuario experto en soporte técnico. Se muestra una lista de interacciones anteriores con usuarios inexpertos en busca de ayuda técnica.
 
-![Wireframe](Fotos/wff15.png)
+![Wireframe](Fotos/wff15p.png)
 
 En esta propuesta de Wireframe se visualiza elementos similares en una posición parecida dentro de la página. Asimismo, podemos ver elementos de diseño como un menú dropdown, así como botones input presentes a lo largo de la página relacionada con el soporte técnico.
 
@@ -716,7 +716,7 @@ Wireframe de Detalles de Asesoramiento de Usuario Experto en Soporte Técnico
 
 En este Wireframe, se puede observar una página mediante la cual el experto en soporte técnico podrá visualizar los detalles de una interacción pasada con un usuario inexperto en busca de asistencia técnica.
 
-![Wireframe](Fotos/wff16.png)
+![Wireframe](Fotos/wff16p.png)
 
 Se puede observar tanto la información del usuario inexperto, así como los detalles de la conversación y del asesoramiento técnico. Se mantiene una información concisa y no sobrecargada, así también como una distribución guiada por patrones y accesible en busca de detalles sobre asesoramiento técnico.
 
@@ -724,7 +724,7 @@ Wireframe de Chat de Asesoramiento de Usuario Experto en Soporte Técnico
 
 En este Wireframe, se puede observar la página mediante la cual el usuario experto en soporte técnico podrá sostener una conversación con un usuario inexperto en busca de asesoramiento técnico para resolver sus dudas y problemas relacionados con hardware y software.
 
-![Wireframe](Fotos/wff17.png)
+![Wireframe](Fotos/wff17p.png)
 
 En esta propuesta de Wireframe se observa la jerarquía visual presente, así también como el modelo mental esperado por parte del usuario que desea tener un chat o conversación con otro usuario en busca de asesoramiento técnico.
 
@@ -732,7 +732,7 @@ Wireframe de Chat de Asesoramiento de Usuario Experto Vendedor
 
 En este Wireframe, se puede observar la página mediante la cual el usuario experto podrá sostener una conversación con un usuario inexperto para asesorarlo en cuanto a dudas que tenga o presente.
 
-![Wireframe](Fotos/wff18.png)
+![Wireframe](Fotos/wff18p.png)
 
 
 #### 4.4.2. Web Applications Wireflow Diagrams
@@ -747,17 +747,17 @@ Explicación del Flujo:
 
 El usuario inexperto debe registrarse primero. Para ello, debe seleccionar el primer botón de radio de los dos botones de radio disponibles, es decir, el que se encuentra más a la izquierda. Esto indica que está creando una cuenta de usuario inexperto.
 
-![WireflowDiagram](Fotos/wfd1.png)
+![WireflowDiagram](Fotos/wfd1p.png)
 
 A continuación, debe completar todos los campos necesarios para crear la cuenta de usuario inexperto.
 
-![WireflowDiagram](Fotos/wfd2.png)
+![WireflowDiagram](Fotos/wfd2p.png)
 
 Finalmente, debe hacer clic en el botón marrón para crear la cuenta con éxito.
 
 Ahora se le redirigirá a la página de inicio de sesión, donde debe completar los campos necesarios.
 
-![WireflowDiagram](Fotos/wfd3.png)
+![WireflowDiagram](Fotos/wfd3p.png)
 
 Finalmente, debe hacer clic en el botón marrón para iniciar sesión.
 User Goal: Comunicarse con un asesor
@@ -770,11 +770,11 @@ Después de haber iniciado sesión, como se describió en el flujo anterior, el 
 
 Ahora debe dirigirse a la sección de "Asesores", que se encuentra en la parte derecha, y hacer clic en el botón marrón para continuar.
 
-![WireflowDiagram](Fotos/wfd4.png)
+![WireflowDiagram](Fotos/wfd4p.png)
 
 Luego, dentro de la interfaz del chat con el asesor, debe escribir un mensaje para establecer la comunicación y hacer clic en la flecha de enviar para enviar el mensaje.
 
-![WireflowDiagram](Fotos/wfd5.png)
+![WireflowDiagram](Fotos/wfd5p.png)
 
 
 User Goal: Dirigirse a una tienda
@@ -782,7 +782,7 @@ User Goal: Dirigirse a una tienda
 Descripción del User Goal: El usuario inexperto tiene como objetivo dirigirse a una tienda específica entre las muchas tiendas afiliadas de la aplicación.
 
 
-![WireflowDiagram](Fotos/wfd6.png)
+![WireflowDiagram](Fotos/wfd6p.png)
 
 
 Explicación del Flujo:
@@ -790,15 +790,15 @@ Explicación del Flujo:
 Después de haber iniciado sesión como usuario inexperto, el usuario debe dirigirse a la sección de "Tiendas" en la página principal de la aplicación.
 
 
-![WireflowDiagram](Fotos/wfd7.png)
+![WireflowDiagram](Fotos/wfd7p.png)
 
 Luego, deberá decidir en uno de los serivicios que desee. 
 
-![WireflowDiagram](Fotos/wfd8.png)
+![WireflowDiagram](Fotos/wfd8p.png)
 
 Finalmente, el usuario inexperto ya se encuentra dentro de la tienda que eligió. Ahora podrá revisar y navegar según su comodidad.
 
-![WireflowDiagram](Fotos/wfd9.png)
+![WireflowDiagram](Fotos/wfd9p.png)
 
 User Goal: Revisar especificaciones de un dispositivo
 
@@ -808,11 +808,11 @@ Explicación del Flujo:
 
 El usuario inexperto debe haberse registrado e iniciado sesión como se describió anteriormente. Luego, debe seguir el flujo para dirigirse a una tienda específica.
 
-![WireflowDiagram](Fotos/wfd10.png)
+![WireflowDiagram](Fotos/wfd10p.png)
 
 Una vez que haya hecho clic en el título de un producto, la aplicación lo llevará a la página de un producto específico.
 
-![WireflowDiagram](Fotos/wfd11.png)
+![WireflowDiagram](Fotos/wfd11p.png)
 
 En esta página, el usuario puede revisar las especificaciones y detalles técnicos del producto seleccionado.
 User Goal: Revisar video informativo
@@ -822,15 +822,15 @@ Descripción del User Goal: El usuario inexperto tiene como objetivo ver un vide
 Explicación del Flujo:
 
 Después de haber completado con éxito el flujo de registro e inicio de sesión, el usuario inexperto debe dirigirse a la sección de "Biblioteca" en la página principal de la aplicación.
-![WireflowDiagram](Fotos/wfd12.png)
+![WireflowDiagram](Fotos/wfd12p.png)
 
 En la página de la Biblioteca, donde se encuentran diferentes tipos de fuentes de información sobre dispositivos de hardware y software, el usuario debe hacer clic en una fuente de información en particular, en este caso, un video. El video puede estar en la pantalla principal de la página o se puede acceder a él a través de filtros. El usuario debe hacer clic en la imagen del video o en su título para continuar.
 
-![WireflowDiagram](Fotos/wfd13.png)
+![WireflowDiagram](Fotos/wfd13p.png)
 
  Después de hacer clic en un video en particular, se redirige al usuario a la página de información específica de la fuente. Aquí, el usuario encontrará información sobre la fuente, incluida la descripción y la transcripción del video, así como detalles del autor/a y las fuentes utilizadas para el video. Finalmente, el usuario puede hacer clic en el video para comenzar a verlo.
 
-![WireflowDiagram](Fotos/wfd14.png)
+![WireflowDiagram](Fotos/wfd14p.png)
 
 User Persona: Usuario Experto Vendedor
 
@@ -842,11 +842,11 @@ Explicación del Flujo:
 
 El usuario experto vendedor debe crear una cuenta de tipo experto y completar todos los campos necesarios para iniciar sesión en la aplicación.
 
-![WireflowDiagram](Fotos/wfd15.png)
+![WireflowDiagram](Fotos/wfd15p.png)
 
 Después de completar el formulario de registro de la cuenta, el usuario debe hacer clic en el botón marrón en la parte inferior para continuar con el proceso de inicio de sesión. El usuario será redirigido a la página de inicio de sesión, donde debe completar los campos requeridos.
 
-![WireflowDiagram](Fotos/wfd16.png)
+![WireflowDiagram](Fotos/wfd16p.png)
  	
 	
 Finalmente, el usuario debe hacer clic en el botón marrón en la parte inferior del formulario para iniciar sesión con éxito.
@@ -859,11 +859,11 @@ Explicación del Flujo:
 
 Después de iniciar sesión correctamente, como se describió en el flujo anterior, el usuario experto vendedor se encuentra en la pantalla principal de la aplicación, donde se encuentran todos los detalles relacionados con su tienda.
 
-![WireflowDiagram](Fotos/wfd17.png)
+![WireflowDiagram](Fotos/wfd17p.png)
 
 Tendrá que dirigirse a la segunda pestaña superior del medio para dirigirse al apartado de servicios.
 
-![WireflowDiagram](Fotos/wfd18.png)
+![WireflowDiagram](Fotos/wfd18p.png)
 
 Luego, debe seleccionar la primera casilla en el menú desplegable para acceder a las "Ventas de servicio realizados" y revisar las ventas a su gusto.
 User Goal: Actualizar catálogo de productos
@@ -874,15 +874,15 @@ Explicación del Flujo:
 
 Después de iniciar sesión correctamente, el usuario experto vendedor debe dirigirse a la primera pestaña en su página principal, es decir, la pestaña de "Productos". Una vez allí, debe hacer clic en la casilla marrón que dice "Actualizar Productos".
 
-![WireflowDiagram](Fotos/wfd19.png)
+![WireflowDiagram](Fotos/wfd19p.png)
 
 A continuación, aparecerán nuevas casillas marrones cerca de cada producto en el catálogo. Estas casillas indican "Actualizar producto". El usuario experto vendedor debe hacer clic en la casilla marrón del producto que desea actualizar.
 
-![WireflowDiagram](Fotos/wfd20.png)
+![WireflowDiagram](Fotos/wfd20p.png)
 
 Finalmente, se abrirá un formulario con varios campos que deben completarse con los nuevos valores del producto actualizado. El usuario experto vendedor ha logrado actualizar un producto en el catálogo de productos.
 
-![WireflowDiagram](Fotos/wfd21.png)
+![WireflowDiagram](Fotos/wfd21p.png)
 
 User Goal: Rellenar proformas de dispositivos comprados por clientes
 
@@ -892,19 +892,19 @@ Explicación del Flujo:
 
 El usuario experto vendedor debe haber iniciado sesión correctamente y haber completado el flujo para acceder a la zona de ventas en su página principal o en la página de su tienda. Dentro de esta área, debe seleccionar la casilla de "Ventas Realizadas" en el menú desplegable.
 
-![WireflowDiagram](Fotos/wfd22.png)
+![WireflowDiagram](Fotos/wfd22p.png)
 
 Una vez dentro de la página correspondiente, debe hacer clic en la casilla marrón de "Ver más detalles" del producto para el cual desea completar la proforma.
 
-![WireflowDiagram](Fotos/wfd23.png)
+![WireflowDiagram](Fotos/wfd23p.png)
 
 Luego, en esta página, debe seleccionar la segunda casilla (la que está más a la derecha), que corresponde al menú de "Proforma de Venta".
 
-![WireflowDiagram](Fotos/wfd24.png)
+![WireflowDiagram](Fotos/wfd24p.png)
 
 Finalmente, el usuario experto vendedor debe completar la proforma con los campos correspondientes para la compra del cliente.
 
-![WireflowDiagram](Fotos/wfd25.png)
+![WireflowDiagram](Fotos/wfd25p.png)
 
 #### 4.4.2. Web Applications Mock-ups
 
@@ -913,7 +913,7 @@ Mock-up de Menú de Registro para Usuario Inexperto
 En este Wireframe, se presenta el primer menú que observará por pantalla un usuario que ingrese a nuestra aplicación Web, en este caso el usuario inexperto. Este wireframe corresponde al menú de registro de un nuevo usuario inexperto.
 El usuario inexperto tendrá que seleccionar que la cuenta que desea crear es de tipo inexperto. De esta manera, se habilitará los campos necesarios para un registro exitoso como los son: Nombres Completo, DNI, email y contraseña.
 
-![Mock-up](Fotos/mu1.png)
+![Mock-up](Fotos/mu1p.png)
  
 En esta propuesta se evidencia una buena arquitectura de información, no sobrecargando al usuario y brindándole la información necesaria para un inicio de sesión exitoso. También podemos ver elementos de diseño que siguen ciertos patrones. Como por ejemplo los input que requieren que se ingrese texto, así también como un dropdown menu. Podemos observar un dropdown menu en el apartado de input de tipo de documento, esto corresponde a un elemento de diseño. También podemos observar un push button “Continuar” que no permitirá seguir a la página principal de la aplicación web.
 
@@ -923,7 +923,7 @@ Mock-up de Menú de Registro para Usuario Experto Vendedor
 
 En este Wireframe, se presenta la primera página que observa un usuario experto vendedor. Deberá registrar su cuenta seleccionando qué es un experto. Además deberá rellenar los mismos campos del usuario inexperto con la diferencia de que además tendrá que ingresar el nombre de tienda
 
-![Mock-up](Fotos/mu2.png)
+![Mock-up](Fotos/mu2p.png)
 
 Esta propuesta es casi idéntica a la anterior. Se puede observar los mismos elementos de diseño. Además, si bien se agregó un nuevo campo de input, no se sobrecarga de información al usuario, haciendo uso de una buena arquitectura de información. Finalmente, se observan los mismos patrones o elementos de diseños como los push button, los radio button y los input de texto para rellenar el formulario de registro de cuenta.
 
@@ -932,7 +932,7 @@ Mock-up de Menú de Inicio de Sesión Usuario Inexperto
 
 En este Wireframe, se puede observar que se selecciona el primer botón debido a que de esta manera estamos indicando que queremos iniciar sesión en una cuenta de usuario inexperto. Visualizamos que los campos de input se han reducido debido a que ya tenemos una cuenta creada y estamos listos para iniciar sesión. Se ingresará los campos de correo electrónico y la contraseña previamente registrada. Finalmente se seleccionará el botón que tiene por texto “Continuar”
 
-![Mock-up](Fotos/mu3.png)
+![Mock-up](Fotos/mu3p.png)
 
 En esta propuesta de Wireframe observamos menos elementos de diseño, sin embargo solo se le muestra la información necesaria al usuario. Podemos observar que el modelo mental correspondiente a la arquitectura de información, respeta los patrones y hace más intuitivo el poder iniciar sesión por parte de un usuario inexperto.
 
@@ -942,7 +942,7 @@ Vendedor
 
 En este Wireframe, se puede observar ahora que la segunda casilla es la que está encendida, significado que ahora el tipo de usuario a iniciar sesión hace referencia a un usuario experto vendedor. Observamos que son casi idénticas las interfaces de inicio de sesión de un usuario inexperto y de un usuario experto vendedor.
 
-![Mock-up](Fotos/mu4.png)
+![Mock-up](Fotos/mu4p.png)
 
 Observamos que se hacen uso de los mismos patrones de diseño: Input de texto, botones de radio, botones para presionar. Se maneja un lenguaje breve y preciso para generar accesibilidad a la hora de iniciar sesión. Seguimos observando que solo los elementos necesarios están por pantalla.
 
@@ -951,7 +951,7 @@ Mock-up de Página Principal de Usuario Inexperto
 
 En este Wireframe, se presenta la pantalla principal de un usuario Inexperto. Se pueden observar tres secciones predominantes: Sección de Tiendas, sesión informativa y sección de comunicación con asesores expertos.
 
-![Mock-up](Fotos/mu5.png)
+![Mock-up](Fotos/mu5p.png)
 
 
 En esta propuesta de Wireframe se observa que no se bombardea de información innecesaria al usuario, haciendo compatible una arquitectura de información en donde se permita encontrar los elementos de interés de manera rápida y sencilla. Contamos con imágenes para crear un sentido de relación con el texto. Se emplea un texto breve que describe las secciones de manera precisa.
@@ -960,7 +960,7 @@ Mock-up de Tiendas Asociadas por parte de Usuario Inexperto
 
 En este Wireframe, se visualiza las principales tiendas afiliadas o asociadas a nuestra aplicación. El usuario podrá navegar entre las distintas tiendas relacionadas al ámbito del cómputo e ingresar a interactuar más a fondo con la tienda que más le favorezca en sus decisión de compra. 
 
-![Mock-up](Fotos/mu6.png)
+![Mock-up](Fotos/mu6p.png)
 
 En esta observamos distintos elementos de diseño, como por ejemplo la barra de búsqueda. Además podemos ver patrones en la muestra de las tiendas, todas manteniendo un mismo formato y apareciendo de manera principal, para que el usuario se guíe de manera más fácil cuando se traslada por la información de la página. Podemos ver una breve descripción de la tienda al costado de los logos de cada una de ellas.
 
@@ -968,7 +968,7 @@ Mock-up de Tienda Asociada específica por parte de Usuario Inexperto
 
 En este Wireframe, podemos visualizar la interfaz de una página destinada a una tienda específica. Se pueden observar filtros por la izquierda y resultados de productos de cómputo en la parte derecha de la página.
 
-![Mock-up](Fotos/mu7.png)
+![Mock-up](Fotos/mu7p.png)
 
 En esta propuesta se evidencia que la sobrecarga del usuario es manejada por el uso de filtros ubicados en la parte izquierda de la página, los cuales hacen más fáciles los desplazamientos de navegación y evita la sobrecarga de información al usuario. Además contamos con un elemento de diseño el cual es la barra de búsqueda el cual permitirá una navegación más rápida y específica para el usuario.
 
@@ -976,7 +976,7 @@ Mock-up de Producto Específico por parte de Usuario Inexperto
 
 En este Wireframe, se puede observar la página referente a un producto de cómputo de una tienda específica. Se pueden observar diferentes elementos a lo largo del Wireframe.
 
-![Mock-up](Fotos/mu8.png)
+![Mock-up](Fotos/mu8p.png)
 
 En esta propuesta de Wireframe observamos una principio para una buena arquitectura de información: La Jerarquía Visual. Podemos observar los Gestalt Principles, los cuales son un conjunto de patrones que agrupan y sitúan elementos similares en diversos sitios correspondientes de la página. Por ejemplo, podemos ver varias imágenes pequeñas debajo de la imagen grande del producto. Esto hace referencia a una galería de fotos e informa al usuario de que puede ver varias fotos del mismo producto desde diferentes perspectivas. Podemos además observar distintos elementos de input como el número de unidades a comprar y el push button de añadir al carrito.
 
@@ -984,7 +984,7 @@ Mock-up de Sección Informativa o Biblioteca por parte de Usuario Inexperto
 
 En este Wireframe, se observa la sección biblioteca o la sección informativa en la cual el usuario inexperto podrá nutrirse de información acerca de los componentes de software o hardware necesarios para su compra deseada. Podrá encontrar información en formatos escritos, de videos, visuales, entre otros.
 
-![Mock-up](Fotos/mu9.png)
+![Mock-up](Fotos/mu9p.png)
 
 En esta propuesta se observa la presencia de filtros, lo cual contribuye a un buen principio de la arquitectura de la información. Podemos observar distintos tipos de filtros como lo son el tipo de información escrita, la duración de los videos, los temas relacionados. Esto reduce la cantidad de información que tendrá que procesar el usuario.
 
@@ -993,7 +993,7 @@ Mock-up de Vídeo Informativo por parte de Usuario Inexperto
 En este Wireframe, el usuario entra a un video informativo específico para adquirir conocimientos acerca de las nuevas tecnologías. En este Wireframe se puede observar el video, su descripción y transcripción, así también como otros videos relacionados que le pueden interesar.
 
 
-![Mock-up](Fotos/mu10.png)
+![Mock-up](Fotos/mu10p.png)
 
 En esta propuesta contribuye a los Gestalt Principles, principios para una buena arquitectura de información. Así como también obedece al diseño inclusivo, adjuntando las transcripciones del video al lado de este, para las personas sordas, o personas sordomudas. También se puede observar un texto descriptivo con referencia al video, esto ayuda a la comprensión y situación de contexto, acciones necesarias para brindar una usabilidad más palpable al usuario.
 
@@ -1001,7 +1001,7 @@ Mock-up de Comunicación con asesor experto por parte de Usuario Inexperto
 
 En este Wireframe, se puede observar la página que hará uso un usuario inexperto para comunicarse con un asesor experto. Este asesor se comunicará vía mensaje de texto para poder contestarle sus preguntas y absolver las dudas acerca de los componentes de hardware y software.
 
-![Mock-up](Fotos/mu11.png)
+![Mock-up](Fotos/mu11p.png)
 
 Observamos que presentamos jerarquía visual, al presentar elementos con diseños similares y patrones idénticos en el mismo lugar de la página. Presenciamos la información justa y necesaria para la comunicación entre usuario y asesor, siempre evitando sobrecargar al usuario. Observamos además el fácil acceso a otros chats con otros asesores.
 
@@ -1009,7 +1009,7 @@ Mock-up de Productos de Tienda de Usuario Experto Vendedor
 
 En este Wireframe, se puede observar la página referente la tienda de un usuario experto vendedor. Se logra visualizar un apartado con cuatro imágenes que en este caso corresponden a las fotos de los productos presentes en el catálogo de la tienda.
 
-![Mock-up](Fotos/mu12.png)
+![Mock-up](Fotos/mu12p.png)
 
 En esta propuesta se presencia una jerarquía visual, acomodando estratégicamente los elementos con patrones similares en un lugar de la página. Lo que se muestra primero son los productos de la tienda. Nuevamente, se muestran los elementos necesarios que tendrá que procesar el usuario. Además se observan las especificaciones de cada producto con cierto patrón esparcido y repetido en todos los productos presentes. Esto hace referencia nuevamente a la jerarquía visual y contribuye también al mental model del usuario.
 
@@ -1018,7 +1018,7 @@ Mock-up de Edición o Actualización de Productos de Tienda de Usuario Experto V
 
 En este Wireframe, se puede observar que unos botones aparecen debajo de la descripción de cada producto. Si el usuario experto vendedor da click a ese botón, quiere decir que desea actualizar dicho producto del catálogo de la tienda.
 
-![Mock-up](Fotos/mu13.png)
+![Mock-up](Fotos/mu13p.png)
 
 En esta propuesta de Wireframe, si bien se incrementaron los elementos de diseño, se sigue manteniendo la jerarquía visual y los gestalt principles. Es por esta razón que la información es más fácil de encontrar. El texto contenido en los nuevos push buttons que aparecieron es simple y fácil accesibilidad, esto lo hace más inclusivo para personas con déficit de atención o otros desórdenes o enfermedades cognitivas.
 
@@ -1026,7 +1026,7 @@ Mock-up de Edición de Producto Específico de Tienda de Usuario Experto Vendedo
 
 En este Wireframe, podemos observar la página que hace referencia a la edición de un producto específico de la tienda. Se puede observar varios campos que existen para ser rellenados con la información actualizada sobre un producto nuevo o existente.
 
-![Mock-up](Fotos/mu14.png)
+![Mock-up](Fotos/mu14p.png)
 
 
 En esta propuesta de Wireframe, observamos un incremento de los elementos de diseño principales de la página. Sin embargo, todo de manera concisa y breve, no afectando la carga de información presente en la página.
@@ -1035,7 +1035,7 @@ Mock-up de Página de Ventas por parte de Usuario Experto Vendedor
 
 En este Wireframe, se puede visualizar las ventas del experto vendedor. Tantos las ventas realizadas, como las ventas por concretar pueden ser del alcance del experto mediante la aplicación web.
 
-![Mock-up](Fotos/mu15.png)
+![Mock-up](Fotos/mu15p.png)
 
 En esta propuesta de Wireframe se visualiza elementos similares en una posición parecida dentro de la página. Asimismo, podemos ver elementos de diseño como un menú dropdown, así también como botones input presentes a lo largo de la página.
 
@@ -1044,7 +1044,7 @@ Mock-up de Detalles de Venta de Usuario Experto Vendedor
 En este Wireframe, se puede observar una página mediante la cual el experto vendedor podrá visualizar los detalles de una compra realizada por un cliente a un producto de su tienda.
 
 
-![Mock-up](Fotos/mu16.png)
+![Mock-up](Fotos/mu16p.png)
 
 Se puede observar tanto la imagen del producto vendido, así también como los detalles del producto y detalles de la venta. Se mantiene una información concisa y no sobrecargada, así también como una distribución guiada por patrones y accesible. Se mantiene un diseño minimalista acorde con los módulos de información presentada.
 
@@ -1053,7 +1053,7 @@ Vendedor
 
 En este Wireframe, se puede observar la página en donde el usuario experto vendedor redactará la proforma de la compra realizada por un cliente.
 
-![Mock-up](Fotos/mu17.png)
+![Mock-up](Fotos/mu17p.png)
 
 En esta propuesta de Wireframe se observan los elementos de diseño visuales necesarios, como formularios, push buttons, entre otros. Se sigue el mental model esperado por parte del usuario al ilustrar la proforma.
 
@@ -1061,7 +1061,7 @@ Mock-up de Chat de Asesoramiento de Usuario Experto Vendedor
 
 En este Wireframe, se puede observar la página mediante la cual el usuario experto podrá sostener una conversación con un usuario inexperto para asesorarlo en cuanto a dudas que tenga o presente.
 
-![Mock-up](Fotos/mu18.png)
+![Mock-up](Fotos/mu18p.png)
 
 En esta propuesta de Wireframe se observa la jerarquía visual presente, así también como el modelo mental esperado por parte del usuario que desea tener un chat o conversación con otro usuario. Se puede observar un mental model cumplido, debido a que la distribución de los elementos de esta página son los esperados por el usuario debido a sus experiencias en otras páginas de chat del pasado.
 
