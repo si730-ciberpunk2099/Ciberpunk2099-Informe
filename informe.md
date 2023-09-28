@@ -1261,6 +1261,31 @@ Aunque todavía no hemos implementado públicamente la página, hemos realizado 
 
 Durante el sprint, hemos mantenido una comunicación abierta en GitHub, donde hemos revisado y comentado las solicitudes de extracción de nuestros compañeros de equipo. También hemos celebrado reuniones semanales de sincronización para abordar cualquier problema y asegurarnos de que todos estén en la misma página en cuanto a los objetivos del sprint.
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1.Sprint Planning 2.
+Para este segundo sprint se priorizo el desarrollo del frontebd:
+ - Pagina Home
+ - Pagina About Us
+ - Despliegue  
+##### 5.2.2.2.Sprint Backlog 2.
+Nuestro Backlog para este segundo sprint ncluye las tareas mencionadas anteriormente, con estimaciones para cada tarea de 5 puntos.
+##### 5.2.2.3.Development Evidence for Sprint Review.
+![FrontEnd 1](Fotos/FE-1.jpg)
+![FrontEnd 2](Fotos/FE-2.jpg)
+![FrontEnd 3](Fotos/FE-3.jpg)
+##### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+Realizamos pruebas unitarias en componentes clave para garantizar su funcionalidad. Hemos utilizado Jest y Vue Testing Library para esto. Los resultados de las pruebas se pueden encontrar en nuestro repositorio de GitHub.
+##### 5.2.2.5.Execution Evidence for Sprint Review.
+Hemos ejecutado con éxito la aplicación en nuestro entorno de desarrollo local y hemos verificado que la página de inicio se muestra correctamente.
+
+##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+En este sprint se desplego correctamente la aplicacion en firebase.
+##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+| **Enlace a la apliacación** |
+|---------------------------|
+| [CiberPunk2099](https://desde0films.web.app/) |
+##### 5.2.2.8.Team Collaboration Insights during Sprint.
+Durante el sprint, hemos mantenido una comunicación abierta en GitHub, donde hemos revisado y comentado las solicitudes de extracción de nuestros compañeros de equipo. También hemos celebrado reuniones semanales de sincronización para abordar cualquier problema y asegurarnos de que todos estén en la misma página en cuanto a los objetivos del sprint.
 ### Conclusiones
 #### Conclusiones y recomendaciones
 
