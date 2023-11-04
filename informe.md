@@ -1309,6 +1309,7 @@ El objetivo central del sprint 3 es completar el desarrollo del frontend utiliza
 Durante esta etapa, hemos logrado completar el desarrollo del frontend de nuestra aplicación, siguiendo fielmente los escenarios de prueba especificados en los criterios de 
 aceptación de Gherkin. Esto ha sido un hito importante para nuestro equipo, ya que hemos logrado implementar las funcionalidades requeridas por los usuarios y validar su correcto
 funcionamiento a través de las pruebas definidas en los escenarios.
+
 <div align="center">
   <img src="https://i.ibb.co/GWzXJVB/gherkin.jpg
 " width="500" />
