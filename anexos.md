@@ -3,6 +3,7 @@
 | :---:   | :---:   | ----         | ----                                  |
 | 0.1     | 27/08   | Emilia Durán | Formato de documento                 |
 | 0.2     | 03/09   | Edery Abanto  | Antecedentes y Problemática          |
+| 0.3    | 03/11   | Todos  | Arreglo de avance         |
 
 # Project Report Collaboration Insights
 Link a repositorio de Project Report:

@@ -8,11 +8,6 @@ Misión: Nuestra misión es ofrecer una amplia gama de productos y componentes d
 Visión: Nuestra visión es ser la marca Líder en venta de componentes con una reputación sólida y confiable para el mercado.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-**Emilia Durán Santander**
-
-Breve Descripcion
-
-![Foto Perfil Emilia](Fotos/Integrantes/Emilia.png)
 
 **Mariano Alejandro Vilela Menéndez**
 
@@ -134,9 +129,6 @@ La solución propuesta es desarrollar una página web que aborde estas problemá
 Esta solución busca empoderar a los usuarios con la información necesaria para tomar decisiones informadas al comprar y ensamblar componentes de computadoras, mejorando así su experiencia y confianza en el proceso.
 
 •	How much (Cuánto) ¿Cuánto costaría resolver el problema?
-
-
-
 
 
 ### 1.2.2.Lean UX Process
@@ -822,6 +814,7 @@ Descripción del User Goal: El usuario inexperto tiene como objetivo ver un vide
 Explicación del Flujo:
 
 Después de haber completado con éxito el flujo de registro e inicio de sesión, el usuario inexperto debe dirigirse a la sección de "Biblioteca" en la página principal de la aplicación.
+
 ![WireflowDiagram](Fotos/wfd12p.png)
 
 En la página de la Biblioteca, donde se encuentran diferentes tipos de fuentes de información sobre dispositivos de hardware y software, el usuario debe hacer clic en una fuente de información en particular, en este caso, un video. El video puede estar en la pantalla principal de la página o se puede acceder a él a través de filtros. El usuario debe hacer clic en la imagen del video o en su título para continuar.
@@ -1273,6 +1266,10 @@ Nuestro Backlog para este segundo sprint ncluye las tareas mencionadas anteriorm
 ![FrontEnd 1](Fotos/FE-1.jpg)
 ![FrontEnd 2](Fotos/FE-2.jpg)
 ![FrontEnd 3](Fotos/FE-3.jpg)
+![FrontEnd 3](Fotos/FE-3.jpg)
+![FrontEnd 3](Fotos/FE-4.png)
+![FrontEnd 3](Fotos/FE-5.png)
+
 ##### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 Realizamos pruebas unitarias en componentes clave para garantizar su funcionalidad. Hemos utilizado Jest y Vue Testing Library para esto. Los resultados de las pruebas se pueden encontrar en nuestro repositorio de GitHub.
 ##### 5.2.2.5.Execution Evidence for Sprint Review.
@@ -1280,6 +1277,7 @@ Hemos ejecutado con éxito la aplicación en nuestro entorno de desarrollo local
 
 ##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 En este sprint se desplego correctamente la aplicacion en firebase.
+
 ##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 | **Enlace a la apliacación** |
 |---------------------------|
@@ -1287,21 +1285,26 @@ En este sprint se desplego correctamente la aplicacion en firebase.
 ##### 5.2.2.8.Team Collaboration Insights during Sprint.
 Durante el sprint, hemos mantenido una comunicación abierta en GitHub, donde hemos revisado y comentado las solicitudes de extracción de nuestros compañeros de equipo. También hemos celebrado reuniones semanales de sincronización para abordar cualquier problema y asegurarnos de que todos estén en la misma página en cuanto a los objetivos del sprint.
 
-### 5.2.3. Sprint 3
-
-#### 5.2.3.1. Sprint Planning 3
-<div align="center">
-  <img src="https://i.ibb.co/hDwTx56/sprint3.jpg" width="500" />
-</div>
+### 5.2.3 Sprint 3
 
 #### 5.2.3.1. Sprint Backlog 3
+
 El objetivo central del sprint 3 es completar el desarrollo del frontend utilizando el framework Vue, asegurando un aplicativo web totalmente funcional y estéticamente agradable. Además, se busca realizar avances significativos en el desarrollo del backend, sentando las bases para la integración entre el frontend y el backend del proyecto.
+
 <div align="center">
   <img src="https://i.ibb.co/CMcyJpR/sprintbacklog.jpg
 " width="500" />
 </div>
 
-####
+##### 5.2.3.2 Sprint Backlong 3
+
+##### 5.2.3.3 Development Evidence for Sprint Review.
+
+| Repository                    | Branch | Commit ID                       | Commit Message                         | Commit ed on (Date) |
+|-------------------------------|--------|---------------------------------|----------------------------------------|---------------------|
+| RymD4/BackEnd-Ciberpunk2099    | master | 891771c4d98e76e160ace5cc81c126f3e9c3e6a4 | Agregar archivos de proyecto           | 3/11/2023           |
+| RymD4/BackEnd-Ciberpunk2099    | master | 891771c4d98e76e160ace5cc81c126f3e9c3e6a4 | Agregar .gitattributes y gitignore.    | 3/11/2023           |
+
 
 ### Conclusiones
 #### Conclusiones y recomendaciones
