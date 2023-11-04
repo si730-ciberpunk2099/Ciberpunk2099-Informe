@@ -1286,6 +1286,23 @@ En este sprint se desplego correctamente la aplicacion en firebase.
 | [CiberPunk2099](https://desde0films.web.app/) |
 ##### 5.2.2.8.Team Collaboration Insights during Sprint.
 Durante el sprint, hemos mantenido una comunicación abierta en GitHub, donde hemos revisado y comentado las solicitudes de extracción de nuestros compañeros de equipo. También hemos celebrado reuniones semanales de sincronización para abordar cualquier problema y asegurarnos de que todos estén en la misma página en cuanto a los objetivos del sprint.
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+<div align="center">
+  <img src="https://i.ibb.co/hDwTx56/sprint3.jpg" width="500" />
+</div>
+
+#### 5.2.3.1. Sprint Backlog 3
+El objetivo central del sprint 3 es completar el desarrollo del frontend utilizando el framework Vue, asegurando un aplicativo web totalmente funcional y estéticamente agradable. Además, se busca realizar avances significativos en el desarrollo del backend, sentando las bases para la integración entre el frontend y el backend del proyecto.
+<div align="center">
+  <img src="https://i.ibb.co/CMcyJpR/sprintbacklog.jpg
+" width="500" />
+</div>
+
+####
+
 ### Conclusiones
 #### Conclusiones y recomendaciones
 
