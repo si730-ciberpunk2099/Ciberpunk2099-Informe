@@ -1263,11 +1263,9 @@ Para este segundo sprint se priorizo el desarrollo del frontebd:
 ##### 5.2.2.2.Sprint Backlog 2.
 Nuestro Backlog para este segundo sprint ncluye las tareas mencionadas anteriormente, con estimaciones para cada tarea de 5 puntos.
 ##### 5.2.2.3.Development Evidence for Sprint Review.
+
 ![FrontEnd 1](Fotos/FE-1.jpg)
-![FrontEnd 2](Fotos/FE-2.jpg)
 ![FrontEnd 3](Fotos/FE-3.jpg)
-![FrontEnd 3](Fotos/FE-3.jpg)
-![FrontEnd 3](Fotos/FE-4.png)
 ![FrontEnd 3](Fotos/FE-5.png)
 
 ##### 5.2.2.4.Testing Suite Evidence for Sprint Review.
@@ -1313,6 +1311,14 @@ El objetivo central del sprint 3 es completar el desarrollo del frontend utiliza
 
 ##### 5.2.3.7	Software Deployment Evidence for Sprint Review. 
 ##### FrontEnd
+
+![FrontEnd 1](Fotos/FE-1.jpg)
+![FrontEnd 2](Fotos/FE-2.jpg)
+![FrontEnd 3](Fotos/FE-3.jpg)
+![FrontEnd 3](Fotos/FE-3.jpg)
+![FrontEnd 3](Fotos/FE-4.png)
+![FrontEnd 3](Fotos/FE-5.png)
+![FrontEnd 3](Fotos/FE-6.png)
 
 #### BackEnd
 
