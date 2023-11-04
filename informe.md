@@ -1285,16 +1285,12 @@ Durante el sprint, hemos mantenido una comunicación abierta en GitHub, donde he
 
 ### 5.2.3 Sprint 3
 
-#### 5.2.3.1. Sprint Backlog 3
-
+#### 5.2.3.1. Sprint Planning 3
+![sprintplanning](Fotos/sprint3.jpeg)
+##### 5.2.3.2 Sprint Backlong 3
 El objetivo central del sprint 3 es completar el desarrollo del frontend utilizando el framework Vue, asegurando un aplicativo web totalmente funcional y estéticamente agradable. Además, se busca realizar avances significativos en el desarrollo del backend, sentando las bases para la integración entre el frontend y el backend del proyecto.
 
-<div align="center">
-  <img src="https://i.ibb.co/CMcyJpR/sprintbacklog.jpg
-" width="500" />
-</div>
-
-##### 5.2.3.2 Sprint Backlong 3
+![sprintbacklog](Fotos/sprintbacklog.JPG)
 
 ##### 5.2.3.3 Development Evidence for Sprint Review.
 
@@ -1308,11 +1304,7 @@ Durante esta etapa, hemos logrado completar el desarrollo del frontend de nuestr
 aceptación de Gherkin. Esto ha sido un hito importante para nuestro equipo, ya que hemos logrado implementar las funcionalidades requeridas por los usuarios y validar su correcto
 funcionamiento a través de las pruebas definidas en los escenarios.
 
-<div align="center">
-  <img src="https://i.ibb.co/GWzXJVB/gherkin.jpg
-" width="500" />
-</div>
-
+![sprintbacklog](Fotos/gherkin.JPG)
 
 ##### 5.2.3.5	Execution Evidence for Sprint Review
 
