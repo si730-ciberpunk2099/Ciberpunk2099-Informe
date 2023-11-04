@@ -1305,6 +1305,17 @@ El objetivo central del sprint 3 es completar el desarrollo del frontend utiliza
 | RymD4/BackEnd-Ciberpunk2099    | master | 891771c4d98e76e160ace5cc81c126f3e9c3e6a4 | Agregar archivos de proyecto           | 3/11/2023           |
 | RymD4/BackEnd-Ciberpunk2099    | master | 891771c4d98e76e160ace5cc81c126f3e9c3e6a4 | Agregar .gitattributes y gitignore.    | 3/11/2023           |
 
+##### 5.2.3.4	Testing Suite Evidence for Sprint Review
+
+##### 5.2.3.5	Execution Evidence for Sprint Review
+
+##### 5.2.3.6	Services Documentation for Sprint Review
+
+##### 5.2.3.7	Software Deployment Evidence for Sprint Review. 
+##### FrontEnd
+
+#### BackEnd
+
 
 ### Conclusiones
 #### Conclusiones y recomendaciones
