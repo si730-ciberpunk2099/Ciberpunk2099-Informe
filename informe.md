@@ -1263,11 +1263,9 @@ Para este segundo sprint se priorizo el desarrollo del frontebd:
 ##### 5.2.2.2.Sprint Backlog 2.
 Nuestro Backlog para este segundo sprint ncluye las tareas mencionadas anteriormente, con estimaciones para cada tarea de 5 puntos.
 ##### 5.2.2.3.Development Evidence for Sprint Review.
+
 ![FrontEnd 1](Fotos/FE-1.jpg)
-![FrontEnd 2](Fotos/FE-2.jpg)
 ![FrontEnd 3](Fotos/FE-3.jpg)
-![FrontEnd 3](Fotos/FE-3.jpg)
-![FrontEnd 3](Fotos/FE-4.png)
 ![FrontEnd 3](Fotos/FE-5.png)
 
 ##### 5.2.2.4.Testing Suite Evidence for Sprint Review.
@@ -1306,6 +1304,15 @@ El objetivo central del sprint 3 es completar el desarrollo del frontend utiliza
 | RymD4/BackEnd-Ciberpunk2099    | master | 891771c4d98e76e160ace5cc81c126f3e9c3e6a4 | Agregar .gitattributes y gitignore.    | 3/11/2023           |
 
 ##### 5.2.3.4	Testing Suite Evidence for Sprint Review
+Durante esta etapa, hemos logrado completar el desarrollo del frontend de nuestra aplicación, siguiendo fielmente los escenarios de prueba especificados en los criterios de 
+aceptación de Gherkin. Esto ha sido un hito importante para nuestro equipo, ya que hemos logrado implementar las funcionalidades requeridas por los usuarios y validar su correcto
+funcionamiento a través de las pruebas definidas en los escenarios.
+
+<div align="center">
+  <img src="https://i.ibb.co/GWzXJVB/gherkin.jpg
+" width="500" />
+</div>
+
 
 ##### 5.2.3.5	Execution Evidence for Sprint Review
 
@@ -1313,6 +1320,14 @@ El objetivo central del sprint 3 es completar el desarrollo del frontend utiliza
 
 ##### 5.2.3.7	Software Deployment Evidence for Sprint Review. 
 ##### FrontEnd
+
+![FrontEnd 1](Fotos/FE-1.jpg)
+![FrontEnd 2](Fotos/FE-2.jpg)
+![FrontEnd 3](Fotos/FE-3.jpg)
+![FrontEnd 3](Fotos/FE-3.jpg)
+![FrontEnd 3](Fotos/FE-4.png)
+![FrontEnd 3](Fotos/FE-5.png)
+![FrontEnd 3](Fotos/FE-6.png)
 
 ##### BackEnd
 ##### Categories
