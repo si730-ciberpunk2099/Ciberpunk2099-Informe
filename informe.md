@@ -1306,6 +1306,14 @@ El objetivo central del sprint 3 es completar el desarrollo del frontend utiliza
 | RymD4/BackEnd-Ciberpunk2099    | master | 891771c4d98e76e160ace5cc81c126f3e9c3e6a4 | Agregar .gitattributes y gitignore.    | 3/11/2023           |
 
 ##### 5.2.3.4	Testing Suite Evidence for Sprint Review
+Durante esta etapa, hemos logrado completar el desarrollo del frontend de nuestra aplicación, siguiendo fielmente los escenarios de prueba especificados en los criterios de 
+aceptación de Gherkin. Esto ha sido un hito importante para nuestro equipo, ya que hemos logrado implementar las funcionalidades requeridas por los usuarios y validar su correcto
+funcionamiento a través de las pruebas definidas en los escenarios.
+<div align="center">
+  <img src="https://i.ibb.co/GWzXJVB/gherkin.jpg
+" width="500" />
+</div>
+
 
 ##### 5.2.3.5	Execution Evidence for Sprint Review
 
