@@ -1341,12 +1341,52 @@ funcionamiento a través de las pruebas definidas en los escenarios.
 ![sprintplanning4](Fotos/sprint4.JPG)
 
 ##### 5.2.4.2 Sprint Backlong 4
-##### 5.2.4.3 Development Evidence for Sprint Review.
-##### 5.2.4.4	Testing Suite Evidence for Sprint Review
-##### 5.2.4.5	Execution Evidence for Sprint Review
-##### 5.2.4.6	Services Documentation for Sprint Review
-##### 5.2.4.7	Software Deployment Evidence for Sprint Review.
+El objetivo central del sprint 4 es completar el desarrollo del backend utilizando el lenguaje de programación C# asegurando un aplicativo web totalmente funcional con el frontend. Además, se busca realizar la conexión a la base de datos del proyecto.
 
+![sprintbacklog4](Fotos/sprintbacklog4.JPG)
+##### 5.2.4.3 Development Evidence for Sprint Review.
+
+
+| Repository                    | Branch | Commit ID                       | Commit Message                         | Commit ed on (Date) |
+|-------------------------------|--------|---------------------------------|----------------------------------------|---------------------|
+| RymD4/BackEnd-Ciberpunk2099    | master | 891771c4d98e76e160ace5cc81c126f3e9c3e6a4 | Agregar archivos de proyecto           | 3/11/2023           |
+| RymD4/BackEnd-Ciberpunk2099    | master | 891771c4d98e76e160ace5cc81c126f3e9c3e6a4 | Agregar .gitattributes y gitignore.    | 3/11/2023           |
+
+
+##### 5.2.4.4	Testing Suite Evidence for Sprint Review
+
+Durante esta etapa, hemos logrado completar el desarrollo del frontend de nuestra aplicación, siguiendo fielmente los escenarios de prueba especificados en los criterios de
+aceptación de Gherkin. Esto ha sido un hito importante para nuestro equipo, ya que hemos logrado implementar las funcionalidades requeridas por los usuarios y validar su correcto
+funcionamiento a través de las pruebas definidas en los escenarios.
+
+![sprintbacklog4](Fotos/gherkin4.JPG)
+
+##### 5.2.4.5	Execution Evidence for Sprint Review
+![RepMain](Fotos/repmain.png)
+##### 5.2.4.6	Services Documentation for Sprint Review
+![RepBackend](Fotos/repbackend.png)
+##### 5.2.4.7	Software Deployment Evidence for Sprint Review.
+##### FrontEnd
+
+![FrontEnd 1](Fotos/FE-1.jpg)
+![FrontEnd 2](Fotos/FE-2.jpg)
+![FrontEnd 3](Fotos/FE-3.jpg)
+![FrontEnd 3](Fotos/FE-3.jpg)
+![FrontEnd 3](Fotos/FE-4.png)
+![FrontEnd 3](Fotos/FE-5.png)
+![FrontEnd 3](Fotos/FE-6.png)
+
+##### BackEnd
+##### Categories
+![BackEnd 1](/Fotos/BackEnd-1.jpeg)
+##### Orders
+![BackEnd 2](/Fotos/BackEnd-2.jpeg)
+##### Products
+![BackEnd 3](/Fotos/BackEnd-3.jpeg)
+##### Supliers
+![BackEnd 4](/Fotos/BackEnd-4.jpeg)
+##### Users
+![BackEnd 5](/Fotos/BackEnd-5.jpeg)
 ### Conclusiones
 #### Conclusiones y recomendaciones
 
