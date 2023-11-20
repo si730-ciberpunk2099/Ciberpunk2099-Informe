@@ -1347,11 +1347,12 @@ El objetivo central del sprint 4 es completar el desarrollo del backend utilizan
 ##### 5.2.4.3 Development Evidence for Sprint Review.
 
 
-| Repository                    | Branch | Commit ID                       | Commit Message                         | Commit ed on (Date) |
-|-------------------------------|--------|---------------------------------|----------------------------------------|---------------------|
-| RymD4/BackEnd-Ciberpunk2099    | master | 891771c4d98e76e160ace5cc81c126f3e9c3e6a4 | Agregar archivos de proyecto           | 3/11/2023           |
-| RymD4/BackEnd-Ciberpunk2099    | master | 891771c4d98e76e160ace5cc81c126f3e9c3e6a4 | Agregar .gitattributes y gitignore.    | 3/11/2023           |
-
+| Repository                    | Branch | Commit ID                       | Commit Message                        | Commit ed on (Date) |
+|-------------------------------|--------|---------------------------------|---------------------------------------|---------------------|
+| RymD4/BackEnd-Ciberpunk2099    | master | 9511c8f0aae6179cac5afc4e9c96ab1a1d09b7d7 |feat Add OrderService          | 20/11/2023          |
+| RymD4/BackEnd-Ciberpunk2099    | master | 61638f965ffc4b4f7e43902dd432ab34bc3ddc4f | Update ProductRepository.cs    | 20/11/2023          |
+| RymD4/BackEnd-Ciberpunk2099    | master | b7272d115bd0cef4ab1aaf865256da625ebe54c3 |feat add CategoryService          | 20/11/2023          |
+| RymD4/BackEnd-Ciberpunk2099    | master | 0f9ec42eda7216d81d5983dcf97c9a82c2adf5bb |feat AddProductService           | 20/11/2023          |
 
 ##### 5.2.4.4	Testing Suite Evidence for Sprint Review
 
