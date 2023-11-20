@@ -1335,6 +1335,18 @@ funcionamiento a través de las pruebas definidas en los escenarios.
 ##### Users
 ![BackEnd 5](/Fotos/BackEnd-5.jpeg)
 
+### 5.2.4 Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+![sprintplanning4](Fotos/sprint4.JPG)
+
+##### 5.2.4.2 Sprint Backlong 4
+##### 5.2.4.3 Development Evidence for Sprint Review.
+##### 5.2.4.4	Testing Suite Evidence for Sprint Review
+##### 5.2.4.5	Execution Evidence for Sprint Review
+##### 5.2.4.6	Services Documentation for Sprint Review
+##### 5.2.4.7	Software Deployment Evidence for Sprint Review.
+
 ### Conclusiones
 #### Conclusiones y recomendaciones
 
