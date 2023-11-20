@@ -1325,15 +1325,15 @@ funcionamiento a través de las pruebas definidas en los escenarios.
 
 ##### BackEnd
 ##### Categories
-![BackEnd 1](/Fotos/BackEnd-1.jpeg)
+![BackEnd 1](Fotos/BackEnd-1.jpeg)
 ##### Orders
-![BackEnd 2](/Fotos/BackEnd-2.jpeg)
+![BackEnd 2](Fotos/BackEnd-2.jpeg)
 ##### Products
-![BackEnd 3](/Fotos/BackEnd-3.jpeg)
+![BackEnd 3](Fotos/BackEnd-3.jpeg)
 ##### Supliers
-![BackEnd 4](/Fotos/BackEnd-4.jpeg)
+![BackEnd 4](Fotos/BackEnd-4.jpeg)
 ##### Users
-![BackEnd 5](/Fotos/BackEnd-5.jpeg)
+![BackEnd 5](Fotos/BackEnd-5.jpeg)
 
 ### 5.2.4 Sprint 4
 
@@ -1379,15 +1379,15 @@ funcionamiento a través de las pruebas definidas en los escenarios.
 
 ##### BackEnd
 ##### Categories
-![BackEnd 1](/Fotos/BackEnd-1.jpeg)
+![BackEnd 1](Fotos/BackEnd-1.jpeg)
 ##### Orders
-![BackEnd 2](/Fotos/BackEnd-2.jpeg)
+![BackEnd 2](Fotos/BackEnd-2.jpeg)
 ##### Products
-![BackEnd 3](/Fotos/BackEnd-3.jpeg)
+![BackEnd 3](Fotos/BackEnd-3.jpeg)
 ##### Supliers
-![BackEnd 4](/Fotos/BackEnd-4.jpeg)
+![BackEnd 4](Fotos/BackEnd-4.jpeg)
 ##### Users
-![BackEnd 5](/Fotos/BackEnd-5.jpeg)
+![BackEnd 5](Fotos/BackEnd-5.jpeg)
 ### Conclusiones
 #### Conclusiones y recomendaciones
 
